@@ -1,0 +1,9 @@
+{
+  "name": "ns-voice-handler",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SignalWire LaML voice webhook — returns per-phone MP3 greeting + Dial.",
+  "engines": {
+    "node": ">=20"
+  }
+}
