@@ -7594,6 +7594,13 @@
     "forward": "+14302263095",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18312658100.mp3"
   },
+  "18336597355": {
+    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "brand": "SS",
+    "city": "(main line)",
+    "forward": "+14302263095",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_ss_main.mp3"
+  },
   "18439518874": {
     "action": "https://your-n8n-webhook-url.com/call-complete",
     "brand": "SS",
@@ -7810,6 +7817,41 @@
     "city": "Oak Ridge",
     "forward": "+14302263095",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18652848739.mp3"
+  },
+  "18772334799": {
+    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "brand": "ALB",
+    "city": "(main line)",
+    "forward": "+18329003439",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_alb_main.mp3"
+  },
+  "18775843565": {
+    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "brand": "CHB",
+    "city": "(main line)",
+    "forward": "+14302263095",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_chb_main.mp3"
+  },
+  "18776229925": {
+    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "brand": "HHB",
+    "city": "(main line)",
+    "forward": "+14302263095",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_hhb_main.mp3"
+  },
+  "18778336755": {
+    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "brand": "DHB",
+    "city": "(main line)",
+    "forward": "+14302263095",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_dhb_main.mp3"
+  },
+  "18778438558": {
+    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "brand": "FHB",
+    "city": "(main line)",
+    "forward": "+14302263095",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_fhb_main.mp3"
   },
   "19014392450": {
     "action": "https://your-n8n-webhook-url.com/call-complete",
