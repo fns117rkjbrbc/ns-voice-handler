@@ -5,6 +5,7 @@
 // Brand routing:
 //   ALB → Greeting + "Press 1 to be connected" IVR (filters spam),
 //         retries the prompt once, then hangs up if no input.
+//   SMSSC → Greeting only, then hangup (no forwarding; buyer not yet wired).
 //   Other brands → Greeting + immediate Dial to the brand forward.
 
 import phones from "../data/phones.json" with { type: "json" };
@@ -41,6 +42,15 @@ async function readBody(req) {
   for await (const chunk of req) chunks.push(chunk);
   const raw = Buffer.concat(chunks).toString("utf8");
   return Object.fromEntries(new URLSearchParams(raw));
+}
+
+function greetingOnlyResponse({ play }) {
+  const playTag = play ? `<Play>${xmlEscape(play)}</Play>` : "";
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  ${playTag}
+  <Hangup/>
+</Response>`;
 }
 
 function dialResponse({ play, forward, action }) {
@@ -88,9 +98,16 @@ export default async function handler(req, res) {
   const action = entry?.action || DEFAULT_ACTION;
   const brand = entry?.brand || "";
 
-  const xml = brand === "ALB"
-    ? ivrResponse({ play })
-    : dialResponse({ play, forward, action });
+  const ivrBrands = new Set(["ALB"]);
+  const greetingOnlyBrands = new Set(["SMSSC"]);
+  let xml;
+  if (greetingOnlyBrands.has(brand)) {
+    xml = greetingOnlyResponse({ play });
+  } else if (ivrBrands.has(brand)) {
+    xml = ivrResponse({ play });
+  } else {
+    xml = dialResponse({ play, forward, action });
+  }
 
   res.setHeader("Content-Type", "application/xml; charset=utf-8");
   res.setHeader("X-NS-Phone-Key", key || "unknown");
