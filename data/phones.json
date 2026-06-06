@@ -8665,6 +8665,13 @@
     "forward": "+14302263095",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19412123903.mp3"
   },
+  "19412135120": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
+    "brand": "SS",
+    "city": "Bradenton",
+    "forward": "+18334420558",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19412135120.mp3"
+  },
   "19413375150": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
