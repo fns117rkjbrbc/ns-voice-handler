@@ -69,5 +69,30 @@ export default async function handler(req, res) {
   const entry = phones[key];
   const forward = entry?.forward || FALLBACK_FORWARD;
   const action = entry?.action || DEFAULT_ACTION;
+
+  // ALB pre-dial attribution: log {caller, dialed-to, brand, city} so the
+  // downstream Vapi end-of-call report can be matched back to the GBP that
+  // was dialed. Fire only for ALB-branded numbers; ignore failures so the
+  // dial is never blocked by attribution being slow/down.
+  if (entry?.brand === "ALB") {
+    const caller = normalizeE164(body.From || body.from || query.From || "");
+    try {
+      await fetch("https://nearstrategy.app.n8n.cloud/webhook/alb-call-attribution", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          caller,
+          dialed_to: to,
+          brand: entry.brand,
+          city: entry.city || "",
+          mp3_url: entry.mp3_url || "",
+          timestamp: new Date().toISOString(),
+        }),
+      });
+    } catch (e) {
+      console.error("attribution log failed:", e?.message || e);
+    }
+  }
+
   res.status(200).send(dialXml({ forward, action }));
 }
