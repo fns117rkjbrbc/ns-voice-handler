@@ -133,10 +133,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12062598752.mp3"
   },
   "12066874370": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Seattle",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12066874370.mp3"
   },
   "12074775134": {
@@ -791,10 +791,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12137192822.mp3"
   },
   "12137311532": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Los Angeles",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12137311532.mp3"
   },
   "12152176726": {
@@ -861,10 +861,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12152176791.mp3"
   },
   "12152944754": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Philadelphia",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12152944754.mp3"
   },
   "12163666803": {
@@ -931,10 +931,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12163667310.mp3"
   },
   "12164288574": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Cleveland",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12164288574.mp3"
   },
   "12173341184": {
@@ -1414,10 +1414,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12314060074.mp3"
   },
   "12394141894": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Ft. Myers",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12394141894.mp3"
   },
   "12394482790": {
@@ -1925,10 +1925,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12542635702.mp3"
   },
   "12544545579": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Waco",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12544545579.mp3"
   },
   "12565407370": {
@@ -2359,10 +2359,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13092955038.mp3"
   },
   "13132175454": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Detroit",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13132175454.mp3"
   },
   "13134766982": {
@@ -2450,17 +2450,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13144141296.mp3"
   },
   "13147887739": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "St. Louis",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13147887739.mp3"
   },
   "13158625876": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Syracuse",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13158625876.mp3"
   },
   "13162290919": {
@@ -2506,10 +2506,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13162290928.mp3"
   },
   "13173486793": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Indianapolis",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13173486793.mp3"
   },
   "13175677631": {
@@ -2555,10 +2555,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13183101332.mp3"
   },
   "13183279072": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Alexandria",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13183279072.mp3"
   },
   "13193181936": {
@@ -2681,10 +2681,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13214634586.mp3"
   },
   "13214867772": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Orlando",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13214867772.mp3"
   },
   "13233314716": {
@@ -3003,10 +3003,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14022466907.mp3"
   },
   "14025436627": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Lincoln",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14025436627.mp3"
   },
   "14053469879": {
@@ -3087,10 +3087,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14053469903.mp3"
   },
   "14053572430": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Oklahoma City",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14053572430.mp3"
   },
   "14062835257": {
@@ -3178,10 +3178,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14123325381.mp3"
   },
   "14125562977": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Pittsburgh",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14125562977.mp3"
   },
   "14134086879": {
@@ -3297,10 +3297,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14143607204.mp3"
   },
   "14143757603": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Milwaukee",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14143757603.mp3"
   },
   "14153768694": {
@@ -3353,10 +3353,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14173104699.mp3"
   },
   "14174589406": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Springfield",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14174589406.mp3"
   },
   "14194163350": {
@@ -3486,10 +3486,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14235152563.mp3"
   },
   "14238196655": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Chattanooga",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14238196655.mp3"
   },
   "14242942918": {
@@ -3626,31 +3626,31 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14434436110.mp3"
   },
   "14436596721": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Baltimore",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14436596721.mp3"
   },
   "14482517865": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Tallahassee",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14482517865.mp3"
   },
   "14582909243": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Bend",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14582909243.mp3"
   },
   "14692244280": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Dallas",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14692244280.mp3"
   },
   "14695744797": {
@@ -3689,10 +3689,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14695744850.mp3"
   },
   "14702840445": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Atlanta",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14702840445.mp3"
   },
   "14752854750": {
@@ -3906,10 +3906,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14808523387.mp3"
   },
   "15013811242": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Little Rock",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15013811242.mp3"
   },
   "15013893827": {
@@ -3969,10 +3969,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15013893924.mp3"
   },
   "15022764879": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Louisville",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15022764879.mp3"
   },
   "15023009608": {
@@ -4088,17 +4088,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15043184665.mp3"
   },
   "15044926429": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "New Orleans",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15044926429.mp3"
   },
   "15053584300": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Albuquerque",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15053584300.mp3"
   },
   "15053595405": {
@@ -4298,17 +4298,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15135135744.mp3"
   },
   "15136509243": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Cincinnati",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15136509243.mp3"
   },
   "15153044330": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Des Moines",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15153044330.mp3"
   },
   "15167514042": {
@@ -4396,10 +4396,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15303240164.mp3"
   },
   "15312331563": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Omaha",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15312331563.mp3"
   },
   "15342001618": {
@@ -4767,10 +4767,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15593387360.mp3"
   },
   "15595542356": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Fresno",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15595542356.mp3"
   },
   "15616524310": {
@@ -4956,17 +4956,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16012361598.mp3"
   },
   "16015241178": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Jackson",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16015241178.mp3"
   },
   "16027826946": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Phoenix",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16027826946.mp3"
   },
   "16034584197": {
@@ -5096,17 +5096,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16105454865.mp3"
   },
   "16122242799": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Minneapolis",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16122242799.mp3"
   },
   "16144261916": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Columbus",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16144261916.mp3"
   },
   "16144948721": {
@@ -5145,17 +5145,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16154137193.mp3"
   },
   "16154338970": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Nashville",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16154338970.mp3"
   },
   "16162076871": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Grand Rapids",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16162076871.mp3"
   },
   "16163588786": {
@@ -5236,10 +5236,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16194883385.mp3"
   },
   "16199356286": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "San Diego",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16199356286.mp3"
   },
   "16263411380": {
@@ -5264,10 +5264,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16263411420.mp3"
   },
   "16282961826": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "San Francisco",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16282961826.mp3"
   },
   "16306041120": {
@@ -5292,10 +5292,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16306041135.mp3"
   },
   "16312033815": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Long Island",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16312033815.mp3"
   },
   "16362009134": {
@@ -5320,10 +5320,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16362009142.mp3"
   },
   "16465161859": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "New York",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16465161859.mp3"
   },
   "16469719596": {
@@ -5558,17 +5558,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16513427898.mp3"
   },
   "16562204060": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Land O' Lakes",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16562204060.mp3"
   },
   "16562204064": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Wesley Chapel",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16562204064.mp3"
   },
   "16562595427": {
@@ -5810,10 +5810,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16592335401.mp3"
   },
   "16592413841": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Birmingham",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16592413841.mp3"
   },
   "16613385260": {
@@ -5852,10 +5852,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16613445872.mp3"
   },
   "16616273519": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Bakersfield",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16616273519.mp3"
   },
   "16623089434": {
@@ -5943,10 +5943,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16802138121.mp3"
   },
   "16812404654": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Charleston",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16812404654.mp3"
   },
   "16812496687": {
@@ -6090,10 +6090,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17013191554.mp3"
   },
   "17014152361": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Fargo",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17014152361.mp3"
   },
   "17025600538": {
@@ -6300,10 +6300,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17122185478.mp3"
   },
   "17133600429": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Houston",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17133600429.mp3"
   },
   "17135646330": {
@@ -6391,10 +6391,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17162742016.mp3"
   },
   "17163494723": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Buffalo",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17163494723.mp3"
   },
   "17176630891": {
@@ -6440,10 +6440,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17192450982.mp3"
   },
   "17194315591": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Denver",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17194315591.mp3"
   },
   "17203392585": {
@@ -6594,10 +6594,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17203392805.mp3"
   },
   "17252524673": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Las Vegas",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17252524673.mp3"
   },
   "17262557181": {
@@ -6937,31 +6937,31 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17262557429.mp3"
   },
   "17262645857": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "San Antonio",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17262645857.mp3"
   },
   "17273491148": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Tampa",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17273491148.mp3"
   },
   "17273496325": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Pinellas Park",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17273496325.mp3"
   },
   "17273496326": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Brandon",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17273496326.mp3"
   },
   "17274274750": {
@@ -6993,17 +6993,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17274274784.mp3"
   },
   "17274723453": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Palm Harbor",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17274723453.mp3"
   },
   "17274731416": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "New Port Richey",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17274731416.mp3"
   },
   "17276605722": {
@@ -7154,10 +7154,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17276605749.mp3"
   },
   "17282203378": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "West Palm Beach",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17282203378.mp3"
   },
   "17323277650": {
@@ -7196,10 +7196,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17345686625.mp3"
   },
   "17372276832": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Austin",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17372276832.mp3"
   },
   "17404448827": {
@@ -7350,10 +7350,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17712169980.mp3"
   },
   "17712188092": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Washington",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17712188092.mp3"
   },
   "17722717054": {
@@ -7371,10 +7371,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17722734790.mp3"
   },
   "17732779341": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Chicago",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17732779341.mp3"
   },
   "17734105927": {
@@ -7462,10 +7462,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17852097543.mp3"
   },
   "17863869359": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Miami",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17863869359.mp3"
   },
   "17865896692": {
@@ -7679,17 +7679,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18018802936.mp3"
   },
   "18018805074": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Salt Lake City",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18018805074.mp3"
   },
   "18022524961": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Burlington",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18022524961.mp3"
   },
   "18022529227": {
@@ -7784,10 +7784,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18033984891.mp3"
   },
   "18043922997": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Richmond",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18043922997.mp3"
   },
   "18044459352": {
@@ -7861,10 +7861,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18063026132.mp3"
   },
   "18064509033": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Lubbock",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18064509033.mp3"
   },
   "18083097856": {
@@ -7875,10 +7875,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18083097856.mp3"
   },
   "18089911584": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Honolulu",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18089911584.mp3"
   },
   "18103209449": {
@@ -7973,10 +7973,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18162829913.mp3"
   },
   "18165521076": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Kansas City",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18165521076.mp3"
   },
   "18175208153": {
@@ -8078,17 +8078,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_ss_main.mp3"
   },
   "18382832432": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Albany",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18382832432.mp3"
   },
   "18433092477": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Charleston",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18433092477.mp3"
   },
   "18439518874": {
@@ -8176,17 +8176,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18563291478.mp3"
   },
   "18572970942": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Boston",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18572970942.mp3"
   },
   "18573654780": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Portland",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18573654780.mp3"
   },
   "18592229998": {
@@ -8218,10 +8218,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18602175749.mp3"
   },
   "18607438371": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Hartford",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18607438371.mp3"
   },
   "18623695541": {
@@ -8246,10 +8246,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18623695792.mp3"
   },
   "18632386213": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Lakeland",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18632386213.mp3"
   },
   "18632509735": {
@@ -8316,10 +8316,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18645885985.mp3"
   },
   "18647784873": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Greenville",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18647784873.mp3"
   },
   "18652844395": {
@@ -8358,10 +8358,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_chb_main.mp3"
   },
   "18776227503": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Main Line",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18776227503.mp3"
   },
   "18776229925": {
@@ -8400,10 +8400,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19014392721.mp3"
   },
   "19016402135": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Memphis",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19016402135.mp3"
   },
   "19032307934": {
@@ -8435,10 +8435,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19032307962.mp3"
   },
   "19044672089": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Jacksonville",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19044672089.mp3"
   },
   "19048336543": {
@@ -8596,10 +8596,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19152399740.mp3"
   },
   "19152898253": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "El Paso",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19152898253.mp3"
   },
   "19162448036": {
@@ -8631,10 +8631,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19162448968.mp3"
   },
   "19169644867": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Sacramento",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19169644867.mp3"
   },
   "19183010945": {
@@ -8666,10 +8666,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19183010963.mp3"
   },
   "19183590894": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Tulsa",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19183590894.mp3"
   },
   "19202745098": {
@@ -8995,10 +8995,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19402756021.mp3"
   },
   "19412123903": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Sarasota",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19412123903.mp3"
   },
   "19412135120": {
@@ -9128,10 +9128,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19413945893.mp3"
   },
   "19482161120": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Norfolk",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19482161120.mp3"
   },
   "19497856230": {
@@ -9268,10 +9268,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19564464191.mp3"
   },
   "19566543786": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Laredo",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19566543786.mp3"
   },
   "19703168406": {
@@ -9296,17 +9296,17 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19703168440.mp3"
   },
   "19713699995": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Portland",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19713699995.mp3"
   },
   "19733465672": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Newark",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19733465672.mp3"
   },
   "19783518807": {
@@ -9345,10 +9345,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19792313221.mp3"
   },
   "19804486919": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Charlotte",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19804486919.mp3"
   },
   "19842766861": {
@@ -9387,10 +9387,10 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19842805047.mp3"
   },
   "19843094937": {
-    "action": "https://your-n8n-webhook-url.com/call-complete",
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Raleigh",
-    "forward": "+14302263095",
+    "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19843094937.mp3"
   }
 }

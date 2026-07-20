@@ -13,7 +13,14 @@ import phones from "../data/phones.json" with { type: "json" };
 const FALLBACK_FORWARD = "+14302263095";
 const DEFAULT_ACTION = "https://your-n8n-webhook-url.com/call-complete";
 
-const PRESS_1_MP3 = "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_alb_press1.mp3";
+// Per-brand press-1 spam-filter prompt. A brand only runs the press-1 IVR when
+// it has a prompt here (or a press1_url on its phones.json entry); otherwise it
+// falls through to greeting + immediate Dial to the brand forward.
+const BRAND_PRESS1 = {
+  ALB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_alb_press1.mp3",
+  // SMSSC: forwards to the Genex line (its own IVR answers). Add an SMSSC
+  // press-1 recording here to enable the spam filter in front of the forward.
+};
 const DIGIT_HANDLER_URL = "https://ns-voice-handler.vercel.app/api/voice-digit";
 const GATHER_TIMEOUT_SEC = 5;
 
@@ -67,12 +74,12 @@ function dialResponse({ play, forward, action }) {
 // ALB IVR: greeting → press-1 → retry press-1 → hangup if no input.
 // SignalWire passes To/Called through to the Gather action URL so the
 // digit handler can resolve the brand's forward number from phones.json.
-function ivrResponse({ play }) {
+function ivrResponse({ play, prompt }) {
   const gatherAttrs =
     `numDigits="1" timeout="${GATHER_TIMEOUT_SEC}" ` +
     `action="${xmlEscape(DIGIT_HANDLER_URL)}" method="POST"`;
   const greetingTag = play ? `<Play>${xmlEscape(play)}</Play>` : "";
-  const promptTag = `<Play>${xmlEscape(PRESS_1_MP3)}</Play>`;
+  const promptTag = `<Play>${xmlEscape(prompt)}</Play>`;
   return `<?xml version="1.0" encoding="UTF-8"?>
 <Response>
   ${greetingTag}
@@ -98,14 +105,16 @@ export default async function handler(req, res) {
   const action = entry?.action || DEFAULT_ACTION;
   const brand = entry?.brand || "";
 
-  const ivrBrands = new Set(["ALB"]);
-  const greetingOnlyBrands = new Set(["SMSSC"]);
+  const greetingOnlyBrands = new Set([]);
+  const press1 = entry?.press1_url || BRAND_PRESS1[brand] || "";
   let xml;
   if (greetingOnlyBrands.has(brand)) {
     xml = greetingOnlyResponse({ play });
-  } else if (ivrBrands.has(brand)) {
-    xml = ivrResponse({ play });
+  } else if (press1) {
+    // Press-1 spam filter in front of the Dial (ALB, and any brand once it has a prompt).
+    xml = ivrResponse({ play, prompt: press1 });
   } else {
+    // Greeting then immediate Dial to the brand forward (SMSSC -> Genex line).
     xml = dialResponse({ play, forward, action });
   }
 
