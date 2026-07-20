@@ -18,8 +18,9 @@ const DEFAULT_ACTION = "https://your-n8n-webhook-url.com/call-complete";
 // falls through to greeting + immediate Dial to the brand forward.
 const BRAND_PRESS1 = {
   ALB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_alb_press1.mp3",
-  // SMSSC: forwards to the Genex line (its own IVR answers). Add an SMSSC
-  // press-1 recording here to enable the spam filter in front of the forward.
+  // SMSSC: greeting -> press-1 spam filter -> Dial the Genex line (+18886651257).
+  // Prompt is Jamie (fleet voice), matching the city greetings.
+  SMSSC: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smssc_press1.mp3",
 };
 const DIGIT_HANDLER_URL = "https://ns-voice-handler.vercel.app/api/voice-digit";
 const GATHER_TIMEOUT_SEC = 5;
