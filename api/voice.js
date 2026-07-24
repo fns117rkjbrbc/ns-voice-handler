@@ -22,6 +22,10 @@ const BRAND_PRESS1 = {
   // Prompt is Jamie (fleet voice), matching the city greetings.
   SMSSC: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smssc_press1.mp3",
 };
+// Brands past Google GBP verification: skip the city greeting, forward on ring.
+// Greeting mp3s stay in phones.json - re-enable by removing the brand here.
+const NO_GREETING_BRANDS = new Set(["DHB", "CHB"]);
+
 const DIGIT_HANDLER_URL = "https://ns-voice-handler.vercel.app/api/voice-digit";
 const GATHER_TIMEOUT_SEC = 5;
 
@@ -116,7 +120,8 @@ export default async function handler(req, res) {
     xml = ivrResponse({ play, prompt: press1 });
   } else {
     // Greeting then immediate Dial to the brand forward (SMSSC -> Genex line).
-    xml = dialResponse({ play, forward, action });
+    // Verified brands (NO_GREETING_BRANDS) forward on ring with no greeting.
+    xml = dialResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, forward, action });
   }
 
   res.setHeader("Content-Type", "application/xml; charset=utf-8");
