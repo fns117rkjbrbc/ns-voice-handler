@@ -8364,6 +8364,13 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18776227503.mp3"
   },
+  "18777797248": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
+    "brand": "SMSSC",
+    "city": "Ads Line",
+    "forward": "+18886651257",
+    "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18776227503.mp3"
+  },
   "18776229925": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=HHB",
     "brand": "HHB",
