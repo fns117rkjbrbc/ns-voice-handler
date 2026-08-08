@@ -8399,6 +8399,13 @@
   "forward": "+18333508826",
   "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_fhb_main.mp3"
  },
+ "18888914270": {
+  "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=GX",
+  "brand": "GX",
+  "city": "Ads Line (legacy 888, release 2026-08-22)",
+  "forward": "+18886651257",
+  "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18777904959.mp3"
+ },
  "19014392450": {
   "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
   "brand": "ALB",
