@@ -8385,19 +8385,19 @@
   "forward": "+18886651257",
   "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18776227503.mp3"
  },
+ "18777904959": {
+  "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=GX",
+  "brand": "GX",
+  "city": "Ads Line",
+  "forward": "+18886651257",
+  "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18777904959.mp3"
+ },
  "18778438558": {
   "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
   "brand": "FHB",
   "city": "(main line)",
   "forward": "+18333508826",
   "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_fhb_main.mp3"
- },
- "18888914270": {
-  "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=GX",
-  "brand": "GX",
-  "city": "GX Ads Line",
-  "forward": "+18886651257",
-  "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18776227503.mp3"
  },
  "19014392450": {
   "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
