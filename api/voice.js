@@ -21,6 +21,10 @@ const BRAND_PRESS1 = {
   // SMSSC: greeting -> press-1 spam filter -> Dial the Genex line (+18886651257).
   // Prompt is Jamie (fleet voice), matching the city greetings.
   SMSSC: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smssc_press1.mp3",
+  // GX: Genex-branded PPC site (sellmystructuredsettlement.org). Same flow and
+  // audio as SMSSC (the recorded brand name matches); brand=GX in the action
+  // query keeps call attribution deterministic.
+  GX: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smssc_press1.mp3",
 };
 // Brands past Google GBP verification: skip the city greeting, forward on ring.
 // Greeting mp3s stay in phones.json - re-enable by removing the brand here.
