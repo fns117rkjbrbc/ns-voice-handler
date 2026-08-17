@@ -125,7 +125,8 @@ export default async function handler(req, res) {
   } else {
     // Greeting then immediate Dial to the brand forward (SMSSC -> Genex line).
     // Verified brands (NO_GREETING_BRANDS) forward on ring with no greeting.
-    xml = dialResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, forward, action });
+    // entry.play_override (e.g. a consent bumper for partner-forwarded numbers) beats the brand skip.
+    xml = dialResponse({ play: entry?.play_override || (NO_GREETING_BRANDS.has(brand) ? "" : play), forward, action });
   }
 
   res.setHeader("Content-Type", "application/xml; charset=utf-8");
