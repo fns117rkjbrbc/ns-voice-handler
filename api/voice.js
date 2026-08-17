@@ -83,7 +83,7 @@ function dialResponse({ play, forward, action }) {
 // ALB IVR: greeting → press-1 → retry press-1 → hangup if no input.
 // SignalWire passes To/Called through to the Gather action URL so the
 // digit handler can resolve the brand's forward number from phones.json.
-function ivrResponse({ play, prompt }) {
+function ivrResponse({ play, prompt, retryPrompt }) {
   const gatherAttrs =
     `numDigits="1" timeout="${GATHER_TIMEOUT_SEC}" ` +
     `action="${xmlEscape(DIGIT_HANDLER_URL)}" method="POST"`;
@@ -96,7 +96,7 @@ function ivrResponse({ play, prompt }) {
     ${promptTag}
   </Gather>
   <Gather ${gatherAttrs}>
-    ${promptTag}
+    ${retryPrompt ? `<Play>${xmlEscape(retryPrompt)}</Play>` : promptTag}
   </Gather>
   <Hangup/>
 </Response>`;
@@ -121,7 +121,7 @@ export default async function handler(req, res) {
     xml = greetingOnlyResponse({ play });
   } else if (press1) {
     // Press-1 spam filter in front of the Dial (ALB, and any brand once it has a prompt).
-    xml = ivrResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, prompt: press1 });
+    xml = ivrResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, prompt: press1, retryPrompt: entry?.press1_retry_url || "" });
   } else {
     // Greeting then immediate Dial to the brand forward (SMSSC -> Genex line).
     // Verified brands (NO_GREETING_BRANDS) forward on ring with no greeting.
