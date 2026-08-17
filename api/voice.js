@@ -121,7 +121,7 @@ export default async function handler(req, res) {
     xml = greetingOnlyResponse({ play });
   } else if (press1) {
     // Press-1 spam filter in front of the Dial (ALB, and any brand once it has a prompt).
-    xml = ivrResponse({ play, prompt: press1 });
+    xml = ivrResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, prompt: press1 });
   } else {
     // Greeting then immediate Dial to the brand forward (SMSSC -> Genex line).
     // Verified brands (NO_GREETING_BRANDS) forward on ring with no greeting.
