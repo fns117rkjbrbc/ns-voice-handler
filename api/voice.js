@@ -31,13 +31,16 @@ const BRAND_PRESS1 = {
   // Per-entry press1_url (CHB DMV 32) wins over these.
   CHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_chb_press1.mp3",
   DHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_dhb_press1.mp3",
+  FHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_fhb_press1.mp3",
+  HHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_hhb_press1.mp3",
+  SS:  "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_ss_press1.mp3",
 };
 
 const HB_RETRY = "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_hb_press1_retry.mp3";
-const BRAND_PRESS1_RETRY = { CHB: HB_RETRY, DHB: HB_RETRY };
+const BRAND_PRESS1_RETRY = { CHB: HB_RETRY, DHB: HB_RETRY, FHB: HB_RETRY, HHB: HB_RETRY, SS: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_ss_press1_retry.mp3" };
 // Brands past Google GBP verification: skip the city greeting, forward on ring.
 // Greeting mp3s stay in phones.json - re-enable by removing the brand here.
-const NO_GREETING_BRANDS = new Set(["DHB", "CHB"]);
+const NO_GREETING_BRANDS = new Set(["DHB", "CHB", "FHB", "HHB", "SS"]);
 
 const DIGIT_HANDLER_URL = "https://ns-voice-handler.vercel.app/api/voice-digit";
 const GATHER_TIMEOUT_SEC = 5;
