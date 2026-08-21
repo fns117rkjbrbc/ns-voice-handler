@@ -8988,6 +8988,15 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19123367267.mp3"
   },
+  "19133866499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Lawrence KS (Kansas City market)",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19133866499.mp3"
+  },
   "19134307897": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
