@@ -1,4 +1,13 @@
 {
+  "12036354409": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "New Haven CT",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12036354409.mp3"
+  },
   "12062388701": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -247,6 +256,24 @@
     "city": "Idaho Falls",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12082470992.mp3"
+  },
+  "12085024099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Boise ID",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12085024099.mp3"
+  },
+  "12092429199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Stockton",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12092429199.mp3"
   },
   "12093569156": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -794,6 +821,15 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12093705723.mp3"
   },
+  "12136722149": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Los Angeles, CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
   "12137192822": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -807,6 +843,15 @@
     "city": "Los Angeles",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12137311532.mp3"
+  },
+  "12145508119": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Dallas",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12145508119.mp3"
   },
   "12152176726": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -885,6 +930,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12152944754.mp3"
   },
+  "12157745199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Philadelphia PA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12157745199.mp3"
+  },
   "12163666803": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -954,6 +1008,15 @@
     "city": "Cleveland",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12164288574.mp3"
+  },
+  "12165849069": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Cleveland",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12165849069.mp3"
   },
   "12173341184": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -1760,6 +1823,15 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12512444965.mp3"
   },
+  "12512624599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Mobile, AL",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12512624599.mp3"
+  },
   "12523048631": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -1907,6 +1979,15 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12532351706.mp3"
   },
+  "12534806299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Tacoma WA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12534806299.mp3"
+  },
   "12542635691": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -1973,6 +2054,15 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12565408281.mp3"
   },
+  "12602611099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Fort Wayne IN",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12602611099.mp3"
+  },
   "12602905772": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -1986,6 +2076,24 @@
     "city": "Fort Wayne",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12602905774.mp3"
+  },
+  "12622285199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Racine",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12622285199.mp3"
+  },
+  "12622406599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Waukesha",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12622406599.mp3"
   },
   "12622745694": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
@@ -2035,6 +2143,15 @@
     "city": "Fond du Lac",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12622746356.mp3"
+  },
+  "12624767499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Kenosha",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12624767499.mp3"
   },
   "12692828450": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
@@ -2165,6 +2282,24 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12762538973.mp3",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_chb_dmv_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12762538973.mp3"
+  },
+  "13012972509": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=maryland",
+    "brand": "SMHF",
+    "city": "Frederick",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13012972509.mp3"
+  },
+  "13018230119": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=maryland",
+    "brand": "SMHF",
+    "city": "Hagerstown",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13018230119.mp3"
   },
   "13018236097": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -2345,6 +2480,78 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_chb_dmv_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13018236687.mp3"
   },
+  "13022053999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Dover",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13022053999.mp3"
+  },
+  "13022064799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "New Castle",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13022064799.mp3"
+  },
+  "13022149499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Milford",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13022149499.mp3"
+  },
+  "13022516299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Claymont",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13022516299.mp3"
+  },
+  "13022516499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Seaford",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13022516499.mp3"
+  },
+  "13023053099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Rehoboth Beach",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13023053099.mp3"
+  },
+  "13023057899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Bear",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13023057899.mp3"
+  },
+  "13023142729": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Middletown",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13023142729.mp3"
+  },
   "13024812694": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -2375,6 +2582,105 @@
     "city": "Wilmington",
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13024812706.mp3"
+  },
+  "13025343809": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Wilmington",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13025343809.mp3"
+  },
+  "13025654869": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=delaware",
+    "brand": "SMHF",
+    "city": "Newark",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13025654869.mp3"
+  },
+  "13033091719": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Boulder",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13033091719.mp3"
+  },
+  "13033812449": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Aurora",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13033812449.mp3"
+  },
+  "13038546819": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Arvada",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13038546819.mp3"
+  },
+  "13039634049": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Lakewood",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13039634049.mp3"
+  },
+  "13039634179": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Centennial",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13039634179.mp3"
+  },
+  "13039634199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Denver",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13039634199.mp3"
+  },
+  "13039634319": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Englewood",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13039634319.mp3"
+  },
+  "13039634379": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Brighton",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13039634379.mp3"
+  },
+  "13044275699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Martinsburg WV",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13044275699.mp3"
   },
   "13073038465": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -2440,6 +2746,15 @@
     "city": "Bloomington",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13092955038.mp3"
+  },
+  "13106945628": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Los Angeles",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13106945628.mp3"
   },
   "13132175454": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -2532,12 +2847,57 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13144141296.mp3"
   },
+  "13145019499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "Kirkwood",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13145019499.mp3"
+  },
+  "13147428999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "Maplewood",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13147428999.mp3"
+  },
   "13147887739": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "St. Louis",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13147887739.mp3"
+  },
+  "13149364899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "Clayton",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13149364899.mp3"
+  },
+  "13149485999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "St Louis",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13149485999.mp3"
+  },
+  "13152918499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Syracuse NY",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13152918499.mp3"
   },
   "13158625876": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -2595,6 +2955,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13173486793.mp3"
   },
+  "13175481399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Lawrence",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13175481399.mp3"
+  },
   "13175677631": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -2608,6 +2977,69 @@
     "city": "Indianapolis",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13175677739.mp3"
+  },
+  "13175762959": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Fishers",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13175762959.mp3"
+  },
+  "13176533339": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Indianapolis",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13176533339.mp3"
+  },
+  "13176766599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Plainfield",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13176766599.mp3"
+  },
+  "13177510299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Carmel",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13177510299.mp3"
+  },
+  "13177932599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Greenwood",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13177932599.mp3"
+  },
+  "13178362199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Brownsburg",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13178362199.mp3"
+  },
+  "13179535899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Rocky Ripple",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13179535899.mp3"
   },
   "13183048813": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -2823,6 +3255,33 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13272101805.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13272101805.mp3"
   },
+  "13305749499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Canton",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13305749499.mp3"
+  },
+  "13305879989": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Akron",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13305879989.mp3"
+  },
+  "13307567599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Youngstown",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13307567599.mp3"
+  },
   "13309438301": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -2843,6 +3302,24 @@
     "city": "Youngstown",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13309438414.mp3"
+  },
+  "13344725399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Auburn AL",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13344725399.mp3"
+  },
+  "13364898699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Greensboro",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13364898699.mp3"
   },
   "13366198174": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -2879,6 +3356,15 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13366198734.mp3"
   },
+  "13367777399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Winston-Salem",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13367777399.mp3"
+  },
   "13372839470": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=HHB",
     "brand": "HHB",
@@ -2892,6 +3378,15 @@
     "city": "Lake Charles",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13372839473.mp3"
+  },
+  "13373074199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Lafayette LA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13373074199.mp3"
   },
   "13522828070": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -2995,6 +3490,15 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13602915362.mp3"
   },
+  "13605237599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Vancouver WA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13605237599.mp3"
+  },
   "13612502247": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
     "brand": "DHB",
@@ -3046,6 +3550,33 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13862827307.mp3"
   },
+  "14012058569": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Providence North",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14012058569.mp3"
+  },
+  "14012170739": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Newport",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14012170739.mp3"
+  },
+  "14012328919": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Pawtucket",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14012328919.mp3"
+  },
   "14012408383": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -3067,6 +3598,60 @@
     "city": "Providence",
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14012408405.mp3"
+  },
+  "14012831139": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Warwick",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14012831139.mp3"
+  },
+  "14013541849": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Providence",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14013541849.mp3"
+  },
+  "14013884279": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Providence East",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14013884279.mp3"
+  },
+  "14014480569": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Cumberland",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14014480569.mp3"
+  },
+  "14015308799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Woonsocket",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14015308799.mp3"
+  },
+  "14019005939": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Cranston",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14019005939.mp3"
   },
   "14022466891": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
@@ -3102,6 +3687,69 @@
     "city": "Lincoln",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14025436627.mp3"
+  },
+  "14042487469": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Decatur",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14042487469.mp3"
+  },
+  "14042487489": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Sandy Springs",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14042487489.mp3"
+  },
+  "14044244339": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Buckhead",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14044244339.mp3"
+  },
+  "14044244599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Atlanta Midtown",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14044244599.mp3"
+  },
+  "14044244879": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "College Park",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14044244879.mp3"
+  },
+  "14044620629": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "East Point",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14044620629.mp3"
+  },
+  "14046475399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Atlanta",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14046475399.mp3"
   },
   "14053469879": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -3196,6 +3844,15 @@
     "city": "Oklahoma City",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14053572430.mp3"
+  },
+  "14062053999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Great Falls MT",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14062053999.mp3"
   },
   "14062835257": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -3294,6 +3951,33 @@
     "city": "Pittsburgh",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14125562977.mp3"
+  },
+  "14126936899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Pittsburgh PA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14126936899.mp3"
+  },
+  "14133405529": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Pittsfield",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14133405529.mp3"
+  },
+  "14133845699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Springfield",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14133845699.mp3"
   },
   "14134086879": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -3407,6 +4091,15 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14134086897.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14134086897.mp3"
   },
+  "14142404299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Milwaukee",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14142404299.mp3"
+  },
   "14143606916": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -3427,6 +4120,15 @@
     "city": "Milwaukee",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14143757603.mp3"
+  },
+  "14153543589": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "San Francisco, CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14153543589.mp3"
   },
   "14153768694": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -3484,6 +4186,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14174589406.mp3"
   },
+  "14192586389": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Toledo",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14192586389.mp3"
+  },
   "14194163350": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -3497,6 +4208,15 @@
     "city": "Mansfield",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14194163351.mp3"
+  },
+  "14198273599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Mansfield",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14198273599.mp3"
   },
   "14235007024": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -3698,6 +4418,24 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14342870503.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14342870503.mp3"
   },
+  "14344483999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Lynchburg",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14344483999.mp3"
+  },
+  "14356107999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "St. George UT",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14356107999.mp3"
+  },
   "14402903596": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -3781,6 +4519,24 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14582909243.mp3"
   },
+  "14692146259": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Plano",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14692146259.mp3"
+  },
+  "14692176349": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Garland",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14692176349.mp3"
+  },
   "14692244280": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -3825,6 +4581,15 @@
     "forward": "+18333508323",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14695744850.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14695744850.mp3"
+  },
+  "14696497109": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Frisco",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14696497109.mp3"
   },
   "14702840445": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -4037,6 +4802,33 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14793179370.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14793179370.mp3"
   },
+  "14793393999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Fayetteville AR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14793393999.mp3"
+  },
+  "14793416099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Bentonville AR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14793416099.mp3"
+  },
+  "14807907739": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Gilbert AZ",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14807907739.mp3"
+  },
   "14808523226": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -4067,6 +4859,15 @@
     "forward": "+18333508323",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14808523387.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14808523387.mp3"
+  },
+  "14848709199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Allentown PA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14848709199.mp3"
   },
   "15013811242": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -4158,6 +4959,15 @@
     "city": "Louisville",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15023069138.mp3"
+  },
+  "15034707765": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Salem OR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15034707765.mp3"
   },
   "15038682368": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -4332,6 +5142,15 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15053595431.mp3"
   },
+  "15055945899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Santa Fe NM",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15055945899.mp3"
+  },
   "15072057593": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -4345,6 +5164,42 @@
     "city": "Mankato",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15072057595.mp3"
+  },
+  "15084695929": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
+    "brand": "SMHF",
+    "city": "Falls River, MA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15084695929.mp3"
+  },
+  "15086904209": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Taunton",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15086904209.mp3"
+  },
+  "15087147479": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Attleboro",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15087147479.mp3"
+  },
+  "15087313959": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Worcester",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15087313959.mp3"
   },
   "15089728570": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -4476,6 +5331,15 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15135135744.mp3"
   },
+  "15135862899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Cincinnati",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15135862899.mp3"
+  },
   "15136509243": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -4490,6 +5354,24 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15153044330.mp3"
   },
+  "15162199419": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Hicksville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15162199419.mp3"
+  },
+  "15164303719": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Massapequa",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15164303719.mp3"
+  },
   "15167514042": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -4498,12 +5380,39 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15167514042.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15167514042.mp3"
   },
+  "15167569099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Valley Stream",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15167569099.mp3"
+  },
+  "15169698599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Garden City",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15169698599.mp3"
+  },
   "15173992146": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
     "city": "Lansing",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15173992146.mp3"
+  },
+  "15174014399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Lansing MI",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15174014399.mp3"
   },
   "15184600474": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -4528,6 +5437,15 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15184600487.mp3"
   },
+  "15188541999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Albany NY",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15188541999.mp3"
+  },
   "15202887947": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -4550,6 +5468,15 @@
     "forward": "+18333508323",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15202887955.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15202887955.mp3"
+  },
+  "15206543899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Tucson, AZ",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15206543899.mp3"
   },
   "15303239274": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -4578,6 +5505,24 @@
     "city": "Redding",
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15303240164.mp3"
+  },
+  "15304664399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Chico CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15304664399.mp3"
+  },
+  "15304793499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Redding CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15304793499.mp3"
   },
   "15312331563": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -4608,6 +5553,33 @@
     "forward": "+18337942105",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15403079359.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15403079359.mp3"
+  },
+  "15407553899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Roanoke",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15407553899.mp3"
+  },
+  "15412048499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Bend OR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15412048499.mp3"
+  },
+  "15412437599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Eugene OR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15412437599.mp3"
   },
   "15412839881": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -4650,6 +5622,15 @@
     "city": "Medford",
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15412839887.mp3"
+  },
+  "15413198899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Medford OR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15413198899.mp3"
   },
   "15513213076": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -4963,6 +5944,15 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15513213195.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15513213195.mp3"
   },
+  "15592492999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Fresno",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15592492999.mp3"
+  },
   "15593358337": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -5026,6 +6016,15 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15623122188.mp3"
   },
+  "15625544899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Long Beach",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15625544899.mp3"
+  },
   "15632284641": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -5039,6 +6038,15 @@
     "city": "Dubuque",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15632284835.mp3"
+  },
+  "15703654299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Scranton PA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15703654299.mp3"
   },
   "15705088378": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -5103,6 +6111,15 @@
     "city": "Elkhart",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15743303617.mp3"
+  },
+  "15747272199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "South Bend IN",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15747272199.mp3"
   },
   "15752426118": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -5207,6 +6224,42 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16027826946.mp3"
   },
+  "16033753076": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Laconia",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16033753076.mp3"
+  },
+  "16033753082": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Salem",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16033753082.mp3"
+  },
+  "16033753083": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Conway",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16033753083.mp3"
+  },
+  "16033753089": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Nashua",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16033753089.mp3"
+  },
   "16034584197": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -5237,6 +6290,60 @@
     "city": "Manchester",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16034613489.mp3"
+  },
+  "16038503155": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Derry",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16038503155.mp3"
+  },
+  "16038503168": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Keene",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16038503168.mp3"
+  },
+  "16038598609": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Concord",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16038598609.mp3"
+  },
+  "16038598639": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Portsmouth",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16038598639.mp3"
+  },
+  "16038598649": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Rochester",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16038598649.mp3"
+  },
+  "16038598689": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=new-hampshire",
+    "brand": "SMHF",
+    "city": "Manchester",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16038598689.mp3"
   },
   "16052205860": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
@@ -5273,6 +6380,15 @@
     "forward": "+18337942105",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16072503014.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16072503014.mp3"
+  },
+  "16083501799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Madison",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16083501799.mp3"
   },
   "16084144439": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -5348,6 +6464,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16122242799.mp3"
   },
+  "16143244879": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Columbus",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16143244879.mp3"
+  },
   "16144261916": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -5368,6 +6493,33 @@
     "city": "Columbus",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16144948763.mp3"
+  },
+  "16149078969": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Dublin",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16149078969.mp3"
+  },
+  "16152349649": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Nashville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16152349649.mp3"
+  },
+  "16152349839": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Brentwood",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16152349839.mp3"
   },
   "16154136767": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -5390,12 +6542,66 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16154137193.mp3"
   },
+  "16154209059": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Franklin",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16154209059.mp3"
+  },
   "16154338970": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Nashville",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16154338970.mp3"
+  },
+  "16155411019": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Murfreesboro",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16155411019.mp3"
+  },
+  "16156759969": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Gallatin",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16156759969.mp3"
+  },
+  "16156763389": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Hendersonville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16156763389.mp3"
+  },
+  "16156764319": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Smyrna",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16156764319.mp3"
+  },
+  "16156851499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "East Nashville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16156851499.mp3"
   },
   "16162076871": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -5417,6 +6623,24 @@
     "city": "Grand Rapids",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16163588805.mp3"
+  },
+  "16166916499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Grand Rapids MI",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16166916499.mp3"
+  },
+  "16174407879": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Boston",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16174407879.mp3"
   },
   "16176935867": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -5456,6 +6680,51 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16176937620.mp3"
   },
+  "16178458129": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Quincy",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16178458129.mp3"
+  },
+  "16178604979": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Needham",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16178604979.mp3"
+  },
+  "16182215099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "Fairview Heights",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16182215099.mp3"
+  },
+  "16182484199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "Edwardsville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16182484199.mp3"
+  },
+  "16182683799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "East St Louis",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16182683799.mp3"
+  },
   "16194882908": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -5491,6 +6760,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16199356286.mp3"
   },
+  "16232005979": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Glendale AZ",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16232005979.mp3"
+  },
   "16263411380": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -5511,6 +6789,15 @@
     "city": "El Monte",
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16263411420.mp3"
+  },
+  "16265487399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Pasadena",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16265487399.mp3"
   },
   "16282961826": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -5547,6 +6834,60 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16312033815.mp3"
   },
+  "16315025699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Centereach",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16315025699.mp3"
+  },
+  "16315157599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Patchogue",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16315157599.mp3"
+  },
+  "16315198599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Huntington",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16315198599.mp3"
+  },
+  "16316255199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Port Jefferson",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16316255199.mp3"
+  },
+  "16316585799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Riverhead",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16316585799.mp3"
+  },
+  "16318257599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Bay Shore",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16318257599.mp3"
+  },
   "16362009134": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -5567,6 +6908,33 @@
     "city": "St Peters",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16362009142.mp3"
+  },
+  "16364029099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "Ferguson",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16364029099.mp3"
+  },
+  "16365009699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "Ballwin",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16365009699.mp3"
+  },
+  "16367474699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
+    "brand": "SMHF",
+    "city": "St Charles",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16367474699.mp3"
   },
   "16465161859": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -6391,6 +7759,33 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17014152361.mp3"
   },
+  "17022894709": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Las Vegas, NV",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
+  "17022912279": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "North Las Vegas, NV",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
+  "17024727599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Henderson, NV",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
   "17025600538": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -6475,6 +7870,24 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17025600869.mp3"
   },
+  "17033132699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "FORMER (Arlington, VA)",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
+  "17037403399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "FORMER (Fairfax, VA)",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
   "17044791018": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -6537,6 +7950,33 @@
     "city": "Athens",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17062373982.mp3"
+  },
+  "17062504499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Athens GA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17062504499.mp3"
+  },
+  "17066863399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Columbus GA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17066863399.mp3"
+  },
+  "17067022099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Augusta GA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17067022099.mp3"
   },
   "17072603595": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -6639,6 +8079,15 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17135647518.mp3"
   },
+  "17144427389": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Orange, CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
   "17145517576": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -6659,6 +8108,24 @@
     "city": "Santa Ana",
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17145517584.mp3"
+  },
+  "17148825979": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Anaheim",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17148825979.mp3"
+  },
+  "17159410499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Eau Claire",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17159410499.mp3"
   },
   "17162742004": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -6698,6 +8165,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17163494723.mp3"
   },
+  "17164773199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Buffalo NY",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17164773199.mp3"
+  },
   "17176630891": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -6722,6 +8198,15 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17176630918.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17176630918.mp3"
   },
+  "17186634239": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
+    "brand": "SMHF",
+    "city": "Flushing",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17186634239.mp3"
+  },
   "17192450978": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -6744,6 +8229,15 @@
     "forward": "+18333508323",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17192450982.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17192450982.mp3"
+  },
+  "17193538799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Pueblo CO",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17193538799.mp3"
   },
   "17194315591": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -6916,6 +8410,24 @@
     "forward": "+18333508323",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17203392805.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17203392805.mp3"
+  },
+  "17204573829": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Westminster",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17204573829.mp3"
+  },
+  "17206403919": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
+    "brand": "SMHF",
+    "city": "Broomfield",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17206403919.mp3"
   },
   "17252524673": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -7304,6 +8816,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17262645857.mp3"
   },
+  "17272653649": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Clearwater",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17272653649.mp3"
+  },
   "17273491148": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -7366,6 +8887,15 @@
     "city": "New Port Richey",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17274731416.mp3"
+  },
+  "17274937799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Palm Harbor",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17274937799.mp3"
   },
   "17276605722": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -7522,6 +9052,24 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17276605749.mp3"
   },
+  "17278536019": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Pinellas Park",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17278536019.mp3"
+  },
+  "17278536259": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "St Petersburg",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17278536259.mp3"
+  },
   "17282203378": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -7566,6 +9114,15 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17345686625.mp3"
   },
+  "17347894699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Grand Junction CO",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17347894699.mp3"
+  },
   "17372276832": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -7579,6 +9136,24 @@
     "city": "Newark",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17404448827.mp3"
+  },
+  "17575718299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Hampton",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17575718299.mp3"
+  },
+  "17576959399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Chesapeake",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17576959399.mp3"
   },
   "17578205720": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -7610,6 +9185,42 @@
     "city": "Virginia Beach",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17578205732.mp3"
+  },
+  "17578484599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Newport News",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17578484599.mp3"
+  },
+  "17578994899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Norfolk",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17578994899.mp3"
+  },
+  "17579428999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Virginia Beach",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17579428999.mp3"
+  },
+  "17579934199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Portsmouth",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17579934199.mp3"
   },
   "17602803315": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -7680,6 +9291,51 @@
     "city": "Anderson",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17652572675.mp3"
+  },
+  "17653479499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Muncie",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17653479499.mp3"
+  },
+  "17655342299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
+    "brand": "SMHF",
+    "city": "Anderson",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17655342299.mp3"
+  },
+  "17702020699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Snellville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17702020699.mp3"
+  },
+  "17702020719": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Marietta",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17702020719.mp3"
+  },
+  "17702022189": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=atlanta",
+    "brand": "SMHF",
+    "city": "Kennesaw",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17702022189.mp3"
   },
   "17704701673": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=HHB",
@@ -7874,6 +9530,96 @@
     "city": "Hialeah",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17866151652.mp3"
+  },
+  "18016155299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "Lehi",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18016155299.mp3"
+  },
+  "18016155569": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "Salt Lake City",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18016155569.mp3"
+  },
+  "18016155579": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "South Salt Lake",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18016155579.mp3"
+  },
+  "18016155659": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "West Valley City",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18016155659.mp3"
+  },
+  "18016155999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "Orem",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18016155999.mp3"
+  },
+  "18016917199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "West Jordan",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18016917199.mp3"
+  },
+  "18017192009": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "Draper",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18017192009.mp3"
+  },
+  "18017192099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "Bountiful",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18017192099.mp3"
+  },
+  "18017192119": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "Murray",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18017192119.mp3"
+  },
+  "18018214209": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=salt-lake-city",
+    "brand": "SMHF",
+    "city": "Cottonwood Heights",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18018214209.mp3"
   },
   "18018801941": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -8088,6 +9834,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18018805074.mp3"
   },
+  "18022228799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Burlington VT",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18022228799.mp3"
+  },
   "18022524961": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -8186,6 +9941,15 @@
     "city": "Hilton Head Island",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18033984891.mp3"
+  },
+  "18043735999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=virginia",
+    "brand": "SMHF",
+    "city": "Richmond",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18043735999.mp3"
   },
   "18043922997": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -8323,12 +10087,75 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18124090485.mp3"
   },
+  "18133285899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Tampa West",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18133285899.mp3"
+  },
+  "18135365399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Tampa North",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18135365399.mp3"
+  },
+  "18135484399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Brandon",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18135484399.mp3"
+  },
+  "18136676199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Land O' Lakes",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18136676199.mp3"
+  },
+  "18136676899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Lutz",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18136676899.mp3"
+  },
+  "18138963469": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=tampa",
+    "brand": "SMHF",
+    "city": "Tampa",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18138963469.mp3"
+  },
   "18139548105": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
     "city": "Tampa",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18139548105.mp3"
+  },
+  "18143153799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Erie PA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18143153799.mp3"
   },
   "18144063797": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -8360,6 +10187,24 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18154178465.mp3"
   },
+  "18162030899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Kansas City",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18162030899.mp3"
+  },
+  "18162276899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Lee's Summit, KS",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18162276899.mp3"
+  },
   "18162829737": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -8381,12 +10226,57 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18162829913.mp3"
   },
+  "18163061299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Raytown",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18163061299.mp3"
+  },
+  "18163276399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Harrisonville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18163276399.mp3"
+  },
   "18165521076": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Kansas City",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18165521076.mp3"
+  },
+  "18166850199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Independence",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18166850199.mp3"
+  },
+  "18168374499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Grandview",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18168374499.mp3"
+  },
+  "18172867299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Haslet",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18172867299.mp3"
   },
   "18175208153": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -8426,6 +10316,42 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18175208179.mp3"
   },
+  "18176638279": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Grapevine",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18176638279.mp3"
+  },
+  "18177557099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Mansfield",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18177557099.mp3"
+  },
+  "18177698659": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Fort Worth",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18177698659.mp3"
+  },
+  "18178864249": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Arlington",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18178864249.mp3"
+  },
   "18184534642": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -8446,6 +10372,15 @@
     "city": "Asheville",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18283569084.mp3"
+  },
+  "18285473299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Asheville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18285473299.mp3"
   },
   "18302508574": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -8591,6 +10526,15 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18563291478.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18563291478.mp3"
   },
+  "18566445699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Camden NJ",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18566445699.mp3"
+  },
   "18572970942": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -8619,6 +10563,15 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18592953752.mp3"
   },
+  "18595359499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Lexington KY",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18595359499.mp3"
+  },
   "18602175748": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -8634,6 +10587,15 @@
     "forward": "+18337942105",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18602175749.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18602175749.mp3"
+  },
+  "18603455999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Hartford CT",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18603455999.mp3"
   },
   "18607438371": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -8717,6 +10679,15 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18633603402.mp3"
   },
+  "18644773699": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Greenville SC",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18644773699.mp3"
+  },
   "18645196245": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -8766,6 +10737,24 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18652848739.mp3"
   },
+  "18655035399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Knoxville TN",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18655035399.mp3"
+  },
+  "18705328799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Jonesboro AR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18705328799.mp3"
+  },
   "18772334799": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -8793,6 +10782,15 @@
     "city": "(main line)",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_hhb_main.mp3"
+  },
+  "18777117999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "National",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
   },
   "18777159340": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -8946,6 +10944,33 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19092710787.mp3"
   },
+  "19094406199": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Ontario",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19094406199.mp3"
+  },
+  "19094534429": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "San Bernardino, CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
+  "19097075799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "San Bernardino",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19097075799.mp3"
+  },
   "19104996745": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -8974,6 +10999,15 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19105043976.mp3"
   },
+  "19107883799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Fayetteville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19107883799.mp3"
+  },
   "19123363946": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -8987,6 +11021,33 @@
     "city": "Savannah",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19123367267.mp3"
+  },
+  "19124931299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Savannah GA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19124931299.mp3"
+  },
+  "19132465399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Shawnee, KS",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19132465399.mp3"
+  },
+  "19133746899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Leavenworth, KS",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19133746899.mp3"
   },
   "19133866499": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
@@ -9017,6 +11078,15 @@
     "city": "Olathe",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19134307954.mp3"
+  },
+  "19138282099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
+    "brand": "SMHF",
+    "city": "Overland Park",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19138282099.mp3"
   },
   "19142881481": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -9092,6 +11162,15 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19162448968.mp3"
   },
+  "19162993759": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Sacramento, CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19162993759.mp3"
+  },
   "19169644867": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -9137,6 +11216,42 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19183590894.mp3"
   },
+  "19188488399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Tulsa OK",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19188488399.mp3"
+  },
+  "19192582299": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Raleigh",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19192582299.mp3"
+  },
+  "19196474786": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Chapel Hill",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19196474786.mp3"
+  },
+  "19199219959": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Durham",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19199219959.mp3"
+  },
   "19202745098": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -9157,6 +11272,42 @@
     "city": "Oshkosh",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19202745112.mp3"
+  },
+  "19202801799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Green Bay",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19202801799.mp3"
+  },
+  "19203514999": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Sheboygan",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19203514999.mp3"
+  },
+  "19207646399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Oshkosh",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19207646399.mp3"
+  },
+  "19209446399": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=wisconsin",
+    "brand": "SMHF",
+    "city": "Appleton",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19209446399.mp3"
   },
   "19254388834": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -9389,6 +11540,15 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19282688230.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19282688230.mp3"
   },
+  "19313409899": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Spring Hill",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19313409899.mp3"
+  },
   "19313449770": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=HHB",
     "brand": "HHB",
@@ -9402,6 +11562,15 @@
     "city": "Spring Hill",
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19313449771.mp3"
+  },
+  "19313481799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
+    "brand": "SMHF",
+    "city": "Mount Juliet",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19313481799.mp3"
   },
   "19362444875": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -9433,6 +11602,15 @@
     "city": "Conroe",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19362444880.mp3"
+  },
+  "19373659759": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
+    "brand": "SMHF",
+    "city": "Springfield",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19373659759.mp3"
   },
   "19375577718": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
@@ -9631,6 +11809,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19482161120.mp3"
   },
+  "19495183099": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Irvine",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19495183099.mp3"
+  },
   "19497856230": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -9679,6 +11866,24 @@
     "city": "Moreno Valley",
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19513097356.mp3"
+  },
+  "19513793109": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Riverside, CA",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
+  "19517244799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
+    "brand": "SMHF",
+    "city": "Riverside",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19517244799.mp3"
   },
   "19524912679": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
@@ -9774,6 +11979,15 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19566543786.mp3"
   },
+  "19702517799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Ann Arbor MI",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19702517799.mp3"
+  },
   "19703168406": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
     "brand": "DHB",
@@ -9804,6 +12018,24 @@
     "city": "Portland",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19713699995.mp3"
+  },
+  "19715715599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Portland OR",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19715715599.mp3"
+  },
+  "19722208579": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dfw",
+    "brand": "SMHF",
+    "city": "Irving",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19722208579.mp3"
   },
   "19733465672": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -9836,6 +12068,24 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19783518842.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19783518842.mp3"
   },
+  "19783811939": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Lawrence",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19783811939.mp3"
+  },
+  "19783961439": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
+    "brand": "SMHF",
+    "city": "Lowell",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19783961439.mp3"
+  },
   "19792313220": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
     "brand": "DHB",
@@ -9852,12 +12102,39 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19792313221.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19792313221.mp3"
   },
+  "19802462799": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Concord",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19802462799.mp3"
+  },
+  "19803655301": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Charlotte",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19803655301.mp3"
+  },
   "19804486919": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Charlotte",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19804486919.mp3"
+  },
+  "19809822599": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
+    "brand": "SMHF",
+    "city": "Huntersville",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19809822599.mp3"
   },
   "19842766861": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -9900,5 +12177,14 @@
     "city": "Raleigh",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19843094937.mp3"
+  },
+  "19892814499": {
+    "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
+    "brand": "SMHF",
+    "city": "Saginaw MI",
+    "forward": "+14123882162",
+    "mp3_url": "",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19892814499.mp3"
   }
 }
