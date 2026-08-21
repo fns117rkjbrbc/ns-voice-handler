@@ -62,7 +62,10 @@ export default async function handler(req, res) {
   res.setHeader("X-NS-Digit", digits || "(none)");
   res.setHeader("X-NS-Phone-Key", key || "unknown");
 
-  if (digits !== "1") {
+  // Any pressed key connects (prompt says "press 1", but a fat-fingered 2 is
+  // still a human - the spam filter is the act of pressing, not the digit).
+  // No digit at all (timeout/silent) still hangs up.
+  if (!digits) {
     res.status(200).send(HANGUP_XML);
     return;
   }
