@@ -25,17 +25,7 @@ const BRAND_PRESS1 = {
   // audio as SMSSC (the recorded brand name matches); brand=GX in the action
   // query keeps call attribution deterministic.
   GX: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smssc_press1.mp3",
-  // HB brands (added when PropertyLeads dropped their intake IVR): press-1 gate
-  // before the Dial. Per-entry press1_url (CHB DMV 32) wins over these.
-  CHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_chb_press1.mp3",
-  DHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_dhb_press1.mp3",
-  FHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_fhb_press1.mp3",
-  HHB: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_hhb_press1.mp3",
-  SS:  "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_ss_press1.mp3",
 };
-
-const HB_RETRY = "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_hb_press1_retry.mp3";
-const BRAND_PRESS1_RETRY = { CHB: HB_RETRY, DHB: HB_RETRY, FHB: HB_RETRY, HHB: HB_RETRY, SS: HB_RETRY };
 // Brands past Google GBP verification: skip the city greeting, forward on ring.
 // Greeting mp3s stay in phones.json - re-enable by removing the brand here.
 const NO_GREETING_BRANDS = new Set(["DHB", "CHB"]);
@@ -131,7 +121,7 @@ export default async function handler(req, res) {
     xml = greetingOnlyResponse({ play });
   } else if (press1) {
     // Press-1 spam filter in front of the Dial (ALB, and any brand once it has a prompt).
-    xml = ivrResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, prompt: press1, retryPrompt: entry?.press1_retry_url || BRAND_PRESS1_RETRY[brand] || "" });
+    xml = ivrResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, prompt: press1, retryPrompt: entry?.press1_retry_url || "" });
   } else {
     // Greeting then immediate Dial to the brand forward (SMSSC -> Genex line).
     // Verified brands (NO_GREETING_BRANDS) forward on ring with no greeting.
