@@ -6,6 +6,8 @@
 //   ALB → Greeting + "Press 1 to be connected" IVR (filters spam),
 //         retries the prompt once, then hangs up if no input.
 //   SMSSC → Greeting only, then hangup (no forwarding; buyer not yet wired).
+//   LPJ → per-listing intro inside the press-1 gate; a key press plays a
+//         "can't take your call right now" clip and hangs up (no forward yet).
 //   Other brands → Greeting + immediate Dial to the brand forward.
 
 import phones from "../data/phones.json" with { type: "json" };
@@ -41,6 +43,17 @@ const BRAND_PRESS1_RETRY = { CHB: HB_RETRY, DHB: HB_RETRY, FHB: HB_RETRY, HHB: H
 // Brands past Google GBP verification: skip the city greeting, forward on ring.
 // Greeting mp3s stay in phones.json - re-enable by removing the brand here.
 const NO_GREETING_BRANDS = new Set(["DHB", "CHB", "FHB", "HHB", "SS"]);
+
+// Brands with no destination number yet (LPJ = Luxe Private Jet Charter Flights).
+// Their numbers run the normal press-1 gate (per-listing intro clip =
+// entry.press1_url, which speaks the listing name + address for Google bulk
+// phone verification). A key press is answered in voice-digit.js with this
+// clip + Hangup. These brands never Dial and never use FALLBACK_FORWARD.
+// To go live: add forward + action to the phones.json entries and remove the
+// brand here and in voice-digit.js.
+const NOT_CONNECTED_BRANDS = {
+  LPJ: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_not_connected.mp3",
+};
 
 const DIGIT_HANDLER_URL = "https://ns-voice-handler.vercel.app/api/voice-digit";
 const GATHER_TIMEOUT_SEC = 5;
@@ -134,6 +147,9 @@ export default async function handler(req, res) {
   } else if (press1) {
     // Press-1 spam filter in front of the Dial (ALB, and any brand once it has a prompt).
     xml = ivrResponse({ play: NO_GREETING_BRANDS.has(brand) ? "" : play, prompt: press1, retryPrompt: entry?.press1_retry_url || BRAND_PRESS1_RETRY[brand] || "" });
+  } else if (NOT_CONNECTED_BRANDS[brand]) {
+    // Safety net: a not-connected brand entry with no press-1 clip still never dials.
+    xml = greetingOnlyResponse({ play: NOT_CONNECTED_BRANDS[brand] });
   } else {
     // Greeting then immediate Dial to the brand forward (SMSSC -> Genex line).
     // Verified brands (NO_GREETING_BRANDS) forward on ring with no greeting.

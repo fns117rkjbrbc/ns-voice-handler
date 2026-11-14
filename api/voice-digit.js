@@ -51,6 +51,20 @@ const HANGUP_XML = `<?xml version="1.0" encoding="UTF-8"?>
   <Hangup/>
 </Response>`;
 
+// Brands with no destination number yet (LPJ): a key press plays this clip
+// and hangs up. No Dial, no FALLBACK_FORWARD. Keep in step with api/voice.js.
+const NOT_CONNECTED_BRANDS = {
+  LPJ: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_not_connected.mp3",
+};
+
+function playHangupXml(url) {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Play>${xmlEscape(url)}</Play>
+  <Hangup/>
+</Response>`;
+}
+
 export default async function handler(req, res) {
   const body = await readBody(req).catch(() => ({}));
   const query = req.query || {};
@@ -70,6 +84,11 @@ export default async function handler(req, res) {
     return;
   }
   const entry = phones[key];
+  const notConnected = NOT_CONNECTED_BRANDS[entry?.brand];
+  if (notConnected) {
+    res.status(200).send(playHangupXml(notConnected));
+    return;
+  }
   const forward = entry?.forward || FALLBACK_FORWARD;
   const action = entry?.action || DEFAULT_ACTION;
 
