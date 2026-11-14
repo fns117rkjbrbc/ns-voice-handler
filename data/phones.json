@@ -2095,6 +2095,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12399207073.mp3"
   },
+  "12399990298": {
+    "brand": "LPJ",
+    "city": "Fort Myers",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12399990298.mp3"
+  },
   "12404335699": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=maryland",
     "brand": "SMHF",
@@ -5366,6 +5372,12 @@
     "city": "Palm Desert",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14422823947.mp3"
+  },
+  "14423253013": {
+    "brand": "LPJ",
+    "city": "Carlsbad",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14423253013.mp3"
   },
   "14432643699": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=dc",
@@ -10018,6 +10030,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17193552707.mp3"
   },
+  "17193552768": {
+    "brand": "LPJ",
+    "city": "Colorado Springs",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17193552768.mp3"
+  },
   "17194315591": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -11149,6 +11167,12 @@
     "city": "Winston-Salem",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17432795812.mp3"
+  },
+  "17472820401": {
+    "brand": "LPJ",
+    "city": "Woodland Hills",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17472820401.mp3"
   },
   "17472830218": {
     "brand": "LPJ",
@@ -12950,12 +12974,6 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18573984394.mp3"
   },
-  "18583928176": {
-    "brand": "LPJ",
-    "city": "La Jolla",
-    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
-    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18583928176.mp3"
-  },
   "18583928226": {
     "brand": "LPJ",
     "city": "San Diego",
@@ -13204,6 +13222,12 @@
     "city": "Knoxville",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18653320370.mp3"
+  },
+  "18653320395": {
+    "brand": "LPJ",
+    "city": "Knoxville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18653320395.mp3"
   },
   "18655035399": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
