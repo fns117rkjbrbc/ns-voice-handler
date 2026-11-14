@@ -55,6 +55,8 @@ const HANGUP_XML = `<?xml version="1.0" encoding="UTF-8"?>
 // and hangs up. No Dial, no FALLBACK_FORWARD. Keep in step with api/voice.js.
 const NOT_CONNECTED_BRANDS = {
   LPJ: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_not_connected.mp3",
+  // ASBL = American Small Business Loans (212 numbers, no destination yet).
+  ASBL: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_not_connected.mp3",
 };
 
 function playHangupXml(url) {

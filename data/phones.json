@@ -283,6 +283,12 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12082470992.mp3"
   },
+  "12083793873": {
+    "brand": "ASBL",
+    "city": "Boise",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12083793873.mp3"
+  },
   "12083794928": {
     "brand": "LPJ",
     "city": "Boise",
@@ -921,6 +927,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12093705723.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12093705723.mp3"
   },
+  "12096530037": {
+    "brand": "ASBL",
+    "city": "Modesto",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12096530037.mp3"
+  },
   "12136722149": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
     "brand": "SMHF",
@@ -943,6 +955,12 @@
     "city": "Los Angeles",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12137311532.mp3"
+  },
+  "12139708093": {
+    "brand": "ASBL",
+    "city": "Los Angeles",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12139708093.mp3"
   },
   "12139708120": {
     "brand": "LPJ",
@@ -1434,6 +1452,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12192582978.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12192582978.mp3"
   },
+  "12192740783": {
+    "brand": "ASBL",
+    "city": "Crown Point",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12192740783.mp3"
+  },
   "12243274276": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -1458,11 +1482,23 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12243274302.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12243274302.mp3"
   },
+  "12244496814": {
+    "brand": "ASBL",
+    "city": "Elgin",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12244496814.mp3"
+  },
   "12244582782": {
     "brand": "LPJ",
     "city": "Northbrook",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12244582782.mp3"
+  },
+  "12245020010": {
+    "brand": "ASBL",
+    "city": "Round Lake Beach",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12245020010.mp3"
   },
   "12253704821": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -1494,6 +1530,12 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12253705232.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12253705232.mp3"
+  },
+  "12254330009": {
+    "brand": "ASBL",
+    "city": "Baton Rouge",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12254330009.mp3"
   },
   "12254330071": {
     "brand": "LPJ",
@@ -1682,6 +1724,24 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12314060074.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12314060074.mp3"
+  },
+  "12342794003": {
+    "brand": "ASBL",
+    "city": "Akron",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12342794003.mp3"
+  },
+  "12343283715": {
+    "brand": "ASBL",
+    "city": "Youngstown",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12343283715.mp3"
+  },
+  "12343789638": {
+    "brand": "ASBL",
+    "city": "Canton",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12343789638.mp3"
   },
   "12394141894": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -2011,6 +2071,18 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12394486026.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12394486026.mp3"
   },
+  "12398931949": {
+    "brand": "ASBL",
+    "city": "Cape Coral",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12398931949.mp3"
+  },
+  "12398931952": {
+    "brand": "ASBL",
+    "city": "Bonita Springs",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12398931952.mp3"
+  },
   "12399207040": {
     "brand": "LPJ",
     "city": "Naples",
@@ -2040,6 +2112,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12406288499.mp3"
+  },
+  "12407457004": {
+    "brand": "ASBL",
+    "city": "Clarksburg",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12407457004.mp3"
   },
   "12407751299": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=maryland",
@@ -2106,6 +2184,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12512624599.mp3"
+  },
+  "12512981012": {
+    "brand": "ASBL",
+    "city": "Mobile",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12512981012.mp3"
   },
   "12523048631": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -2326,6 +2410,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12544545579.mp3"
   },
+  "12565179159": {
+    "brand": "ASBL",
+    "city": "Huntsville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12565179159.mp3"
+  },
   "12565407370": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -2456,6 +2546,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12624767499.mp3"
   },
+  "12676061004": {
+    "brand": "ASBL",
+    "city": "Philadelphia",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12676061004.mp3"
+  },
   "12676061051": {
     "brand": "LPJ",
     "city": "Philadelphia",
@@ -2493,6 +2589,12 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12702777991.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12702777991.mp3"
+  },
+  "12722353634": {
+    "brand": "ASBL",
+    "city": "Scranton",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12722353634.mp3"
   },
   "12762538910": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -2595,6 +2697,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/12762538973.mp3",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_chb_dmv_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12762538973.mp3"
+  },
+  "12792855220": {
+    "brand": "ASBL",
+    "city": "Sacramento",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_12792855220.mp3"
   },
   "12792855270": {
     "brand": "LPJ",
@@ -2972,6 +3080,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13025654869.mp3"
   },
+  "13026001028": {
+    "brand": "ASBL",
+    "city": "Wilmington",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13026001028.mp3"
+  },
   "13033091719": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
     "brand": "SMHF",
@@ -3127,6 +3241,12 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13092955038.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13092955038.mp3"
+  },
+  "13093248239": {
+    "brand": "ASBL",
+    "city": "Peoria",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13093248239.mp3"
   },
   "13106945628": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
@@ -3344,6 +3464,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13162290928.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13162290928.mp3"
   },
+  "13167105012": {
+    "brand": "ASBL",
+    "city": "Wichita",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13167105012.mp3"
+  },
   "13167105048": {
     "brand": "LPJ",
     "city": "Wichita",
@@ -3434,6 +3560,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13178362199.mp3"
+  },
+  "13179341372": {
+    "brand": "ASBL",
+    "city": "Indianapolis",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13179341372.mp3"
   },
   "13179535899": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=indy",
@@ -3727,6 +3859,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13309438414.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13309438414.mp3"
   },
+  "13313730317": {
+    "brand": "ASBL",
+    "city": "Oswego",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13313730317.mp3"
+  },
   "13318268075": {
     "brand": "LPJ",
     "city": "Oak Brook",
@@ -3741,6 +3879,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13344725399.mp3"
+  },
+  "13345789709": {
+    "brand": "ASBL",
+    "city": "Montgomery",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13345789709.mp3"
   },
   "13364898699": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=north-carolina",
@@ -3823,11 +3967,41 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13373074199.mp3"
   },
+  "13466602034": {
+    "brand": "ASBL",
+    "city": "Baytown",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13466602034.mp3"
+  },
+  "13466724257": {
+    "brand": "ASBL",
+    "city": "The Woodlands",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13466724257.mp3"
+  },
   "13466724385": {
     "brand": "LPJ",
     "city": "The Woodlands",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13466724385.mp3"
+  },
+  "13467071788": {
+    "brand": "ASBL",
+    "city": "Fulshear",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13467071788.mp3"
+  },
+  "13467092067": {
+    "brand": "ASBL",
+    "city": "League City",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13467092067.mp3"
+  },
+  "13467764033": {
+    "brand": "ASBL",
+    "city": "Houston",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13467764033.mp3"
   },
   "13467764062": {
     "brand": "LPJ",
@@ -3840,6 +4014,18 @@
     "city": "Galleria",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13467764089.mp3"
+  },
+  "13512217477": {
+    "brand": "ASBL",
+    "city": "Manchester",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13512217477.mp3"
+  },
+  "13512295059": {
+    "brand": "ASBL",
+    "city": "Dover",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13512295059.mp3"
   },
   "13522828070": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -3934,6 +4120,24 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13527101289.mp3"
   },
+  "13527733802": {
+    "brand": "ASBL",
+    "city": "Spring Hill",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13527733802.mp3"
+  },
+  "13528141223": {
+    "brand": "ASBL",
+    "city": "Leesburg",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13528141223.mp3"
+  },
+  "13528205344": {
+    "brand": "ASBL",
+    "city": "Ocala",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13528205344.mp3"
+  },
   "13602915360": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -3959,6 +4163,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13605237599.mp3"
   },
+  "13606485732": {
+    "brand": "ASBL",
+    "city": "Olympia",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13606485732.mp3"
+  },
   "13612502247": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
     "brand": "DHB",
@@ -3982,11 +4192,29 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13612502343.mp3"
   },
+  "13613360071": {
+    "brand": "ASBL",
+    "city": "Corpus Christi",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13613360071.mp3"
+  },
   "13632153017": {
     "brand": "LPJ",
     "city": "Garden City",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13632153017.mp3"
+  },
+  "13632161009": {
+    "brand": "ASBL",
+    "city": "Queens",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13632161009.mp3"
+  },
+  "13802918005": {
+    "brand": "ASBL",
+    "city": "Columbus",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13802918005.mp3"
   },
   "13802918031": {
     "brand": "LPJ",
@@ -3994,11 +4222,23 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13802918031.mp3"
   },
+  "13855930848": {
+    "brand": "ASBL",
+    "city": "Salt Lake City",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13855930848.mp3"
+  },
   "13855930873": {
     "brand": "LPJ",
     "city": "Salt Lake City",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13855930873.mp3"
+  },
+  "13856006159": {
+    "brand": "ASBL",
+    "city": "Ogden",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13856006159.mp3"
   },
   "13862517709": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -4036,6 +4276,18 @@
     "city": "Jacksonville",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13863578200.mp3"
+  },
+  "13864190056": {
+    "brand": "ASBL",
+    "city": "Jacksonville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13864190056.mp3"
+  },
+  "13865164086": {
+    "brand": "ASBL",
+    "city": "Deltona",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13865164086.mp3"
   },
   "14012058569": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=providence",
@@ -4114,6 +4366,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14013884279.mp3"
   },
+  "14014142176": {
+    "brand": "ASBL",
+    "city": "Providence",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14014142176.mp3"
+  },
   "14014142342": {
     "brand": "LPJ",
     "city": "Providence",
@@ -4176,6 +4434,12 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14022466907.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14022466907.mp3"
+  },
+  "14025137874": {
+    "brand": "ASBL",
+    "city": "Omaha",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14025137874.mp3"
   },
   "14025436627": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -4347,6 +4611,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14053572430.mp3"
   },
+  "14057192014": {
+    "brand": "ASBL",
+    "city": "Oklahoma City",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14057192014.mp3"
+  },
   "14057192045": {
     "brand": "LPJ",
     "city": "Oklahoma City",
@@ -4444,6 +4714,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14092328611.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14092328611.mp3"
   },
+  "14092952047": {
+    "brand": "ASBL",
+    "city": "Galveston",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14092952047.mp3"
+  },
   "14123325363": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -4458,6 +4734,12 @@
     "city": "Pittsburgh",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14123325381.mp3"
+  },
+  "14125463169": {
+    "brand": "ASBL",
+    "city": "Pittsburgh",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14125463169.mp3"
   },
   "14125463194": {
     "brand": "LPJ",
@@ -4489,6 +4771,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14133405529.mp3"
+  },
+  "14133520049": {
+    "brand": "ASBL",
+    "city": "Springfield",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14133520049.mp3"
   },
   "14133845699": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=massachusetts",
@@ -4642,6 +4930,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14143757603.mp3"
   },
+  "14143980442": {
+    "brand": "ASBL",
+    "city": "Milwaukee",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14143980442.mp3"
+  },
   "14143980471": {
     "brand": "LPJ",
     "city": "Milwaukee",
@@ -4741,6 +5035,12 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14194163351.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14194163351.mp3"
+  },
+  "14197544646": {
+    "brand": "ASBL",
+    "city": "Toledo",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14197544646.mp3"
   },
   "14198273599": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
@@ -4877,6 +5177,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14235152563.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14235152563.mp3"
   },
+  "14235580623": {
+    "brand": "ASBL",
+    "city": "Chattanooga",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14235580623.mp3"
+  },
   "14238196655": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -4943,6 +5249,12 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14252927633.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14252927633.mp3"
+  },
+  "14256450319": {
+    "brand": "ASBL",
+    "city": "Lake Stevens",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14256450319.mp3"
   },
   "14257953597": {
     "brand": "LPJ",
@@ -5036,6 +5348,12 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14402903600.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14402903600.mp3"
+  },
+  "14405685495": {
+    "brand": "ASBL",
+    "city": "Cleveland",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14405685495.mp3"
   },
   "14405685612": {
     "brand": "LPJ",
@@ -5258,6 +5576,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14702840445.mp3"
   },
+  "14708195095": {
+    "brand": "ASBL",
+    "city": "Atlanta",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14708195095.mp3"
+  },
   "14708195155": {
     "brand": "LPJ",
     "city": "Atlanta",
@@ -5429,6 +5753,18 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14752854895.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14752854895.mp3"
   },
+  "14753171482": {
+    "brand": "ASBL",
+    "city": "New Haven",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14753171482.mp3"
+  },
+  "14753323096": {
+    "brand": "ASBL",
+    "city": "Bridgeport",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14753323096.mp3"
+  },
   "14753340728": {
     "brand": "LPJ",
     "city": "Stamford",
@@ -5457,6 +5793,18 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/14782865422.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14782865422.mp3"
+  },
+  "14782929093": {
+    "brand": "ASBL",
+    "city": "Macon",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14782929093.mp3"
+  },
+  "14783691003": {
+    "brand": "ASBL",
+    "city": "Warner Robins",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14783691003.mp3"
   },
   "14793179362": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -5625,6 +5973,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15013893924.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15013893924.mp3"
   },
+  "15013994294": {
+    "brand": "ASBL",
+    "city": "Little Rock",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15013994294.mp3"
+  },
   "15013994535": {
     "brand": "LPJ",
     "city": "Little Rock",
@@ -5658,6 +6012,12 @@
     "city": "Louisville",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15027096672.mp3"
+  },
+  "15027096681": {
+    "brand": "ASBL",
+    "city": "Louisville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15027096681.mp3"
   },
   "15034707765": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
@@ -5778,6 +6138,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15043184665.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15043184665.mp3"
   },
+  "15044040047": {
+    "brand": "ASBL",
+    "city": "New Orleans",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15044040047.mp3"
+  },
   "15044040082": {
     "brand": "LPJ",
     "city": "New Orleans",
@@ -5858,6 +6224,12 @@
     "city": "Santa Fe",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15053595431.mp3"
+  },
+  "15055211125": {
+    "brand": "ASBL",
+    "city": "Albuquerque",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15055211125.mp3"
   },
   "15055945899": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
@@ -5981,6 +6353,12 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15092146881.mp3"
   },
+  "15092677679": {
+    "brand": "ASBL",
+    "city": "Spokane",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15092677679.mp3"
+  },
   "15102816212": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -6004,6 +6382,12 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15102816760.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15102816760.mp3"
+  },
+  "15103809891": {
+    "brand": "ASBL",
+    "city": "Oakland",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15103809891.mp3"
   },
   "15126315205": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -6075,12 +6459,24 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15136509243.mp3"
   },
+  "15138407166": {
+    "brand": "ASBL",
+    "city": "Cincinnati",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15138407166.mp3"
+  },
   "15153044330": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Des Moines",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15153044330.mp3"
+  },
+  "15154148779": {
+    "brand": "ASBL",
+    "city": "Des Moines",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15154148779.mp3"
   },
   "15162199419": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=long-island",
@@ -6165,6 +6561,12 @@
     "city": "Albany",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15184600487.mp3"
+  },
+  "15187043082": {
+    "brand": "ASBL",
+    "city": "Albany",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15187043082.mp3"
   },
   "15188541999": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
@@ -6732,11 +7134,23 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15593387360.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15593387360.mp3"
   },
+  "15594090767": {
+    "brand": "ASBL",
+    "city": "Visalia",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15594090767.mp3"
+  },
   "15594780139": {
     "brand": "LPJ",
     "city": "Fresno",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15594780139.mp3"
+  },
+  "15594780169": {
+    "brand": "ASBL",
+    "city": "Fresno",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15594780169.mp3"
   },
   "15595542356": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -6786,6 +7200,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15625544899.mp3"
   },
+  "15626840936": {
+    "brand": "ASBL",
+    "city": "Long Beach",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15626840936.mp3"
+  },
   "15632284641": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -6801,6 +7221,12 @@
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15632284835.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15632284835.mp3"
+  },
+  "15642213088": {
+    "brand": "ASBL",
+    "city": "Seattle",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15642213088.mp3"
   },
   "15642213149": {
     "brand": "LPJ",
@@ -6890,6 +7316,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15743303617.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15743303617.mp3"
   },
+  "15743819299": {
+    "brand": "ASBL",
+    "city": "South Bend",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15743819299.mp3"
+  },
   "15747272199": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
     "brand": "SMHF",
@@ -6946,6 +7378,12 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/15853798944.mp3"
   },
+  "15855102008": {
+    "brand": "ASBL",
+    "city": "Rochester",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15855102008.mp3"
+  },
   "15862756318": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -6992,6 +7430,12 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16012361598.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16012361598.mp3"
+  },
+  "16013870045": {
+    "brand": "ASBL",
+    "city": "Jackson",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16013870045.mp3"
   },
   "16015241178": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -7206,6 +7650,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16084144494.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16084144494.mp3"
   },
+  "16088171077": {
+    "brand": "ASBL",
+    "city": "Madison",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16088171077.mp3"
+  },
   "16093072746": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
     "brand": "CHB",
@@ -7245,12 +7695,24 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16105454865.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16105454865.mp3"
   },
+  "16109828157": {
+    "brand": "ASBL",
+    "city": "Allentown",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16109828157.mp3"
+  },
   "16122242799": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Minneapolis",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16122242799.mp3"
+  },
+  "16126824926": {
+    "brand": "ASBL",
+    "city": "Minneapolis",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16126824926.mp3"
   },
   "16126825325": {
     "brand": "LPJ",
@@ -7400,6 +7862,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16156851499.mp3"
   },
+  "16157198064": {
+    "brand": "ASBL",
+    "city": "Nashville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16157198064.mp3"
+  },
   "16157198091": {
     "brand": "LPJ",
     "city": "Nashville",
@@ -7436,6 +7904,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16166916499.mp3"
+  },
+  "16168050361": {
+    "brand": "ASBL",
+    "city": "Grand Rapids",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16168050361.mp3"
   },
   "16168050388": {
     "brand": "LPJ",
@@ -7567,6 +8041,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16194883385.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16194883385.mp3"
   },
+  "16198125044": {
+    "brand": "ASBL",
+    "city": "San Diego",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16198125044.mp3"
+  },
   "16199356286": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -7628,6 +8108,12 @@
     "city": "San Francisco",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16282961826.mp3"
+  },
+  "16284660590": {
+    "brand": "ASBL",
+    "city": "San Francisco",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16284660590.mp3"
   },
   "16284660616": {
     "brand": "LPJ",
@@ -7711,6 +8197,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16316585799.mp3"
   },
+  "16317408567": {
+    "brand": "ASBL",
+    "city": "Riverhead",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16317408567.mp3"
+  },
   "16317718292": {
     "brand": "LPJ",
     "city": "East Hampton",
@@ -7725,6 +8217,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16318257599.mp3"
+  },
+  "16318922033": {
+    "brand": "ASBL",
+    "city": "Bay Shore",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16318922033.mp3"
   },
   "16319302786": {
     "brand": "LPJ",
@@ -7770,6 +8268,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16364029099.mp3"
+  },
+  "16364925651": {
+    "brand": "ASBL",
+    "city": "St. Louis",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16364925651.mp3"
   },
   "16365009699": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=st-louis",
@@ -8085,6 +8589,30 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16562204064.mp3"
   },
+  "16562548899": {
+    "brand": "ASBL",
+    "city": "Brandon",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562548899.mp3"
+  },
+  "16562548903": {
+    "brand": "ASBL",
+    "city": "Egypt Lake-Leto",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562548903.mp3"
+  },
+  "16562548908": {
+    "brand": "ASBL",
+    "city": "Tampa",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562548908.mp3"
+  },
+  "16562548915": {
+    "brand": "ASBL",
+    "city": "Westshore",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562548915.mp3"
+  },
   "16562548924": {
     "brand": "LPJ",
     "city": "Downtown Tampa",
@@ -8108,6 +8636,18 @@
     "city": "Brandon",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562549001.mp3"
+  },
+  "16562590855": {
+    "brand": "ASBL",
+    "city": "Land O' Lakes",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562590855.mp3"
+  },
+  "16562590857": {
+    "brand": "ASBL",
+    "city": "Wesley Chapel",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562590857.mp3"
   },
   "16562590883": {
     "brand": "LPJ",
@@ -8288,6 +8828,30 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16562595456.mp3"
   },
+  "16562680840": {
+    "brand": "ASBL",
+    "city": "Carrollwood",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562680840.mp3"
+  },
+  "16562680852": {
+    "brand": "ASBL",
+    "city": "Northdale",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562680852.mp3"
+  },
+  "16562680874": {
+    "brand": "ASBL",
+    "city": "Oldsmar",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562680874.mp3"
+  },
+  "16562680884": {
+    "brand": "ASBL",
+    "city": "Town 'n' Country",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562680884.mp3"
+  },
   "16562680929": {
     "brand": "LPJ",
     "city": "Oldsmar",
@@ -8305,6 +8869,12 @@
     "city": "Northdale",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16562681008.mp3"
+  },
+  "16578423528": {
+    "brand": "ASBL",
+    "city": "Anaheim",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16578423528.mp3"
   },
   "16592334939": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -8405,6 +8975,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16592413841.mp3"
   },
+  "16592758232": {
+    "brand": "ASBL",
+    "city": "Birmingham",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16592758232.mp3"
+  },
   "16592758258": {
     "brand": "LPJ",
     "city": "Birmingham",
@@ -8449,6 +9025,24 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16613445872.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16613445872.mp3"
   },
+  "16613789575": {
+    "brand": "ASBL",
+    "city": "Bakersfield",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16613789575.mp3"
+  },
+  "16614050051": {
+    "brand": "ASBL",
+    "city": "Lancaster",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16614050051.mp3"
+  },
+  "16614170702": {
+    "brand": "ASBL",
+    "city": "Santa Clarita",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16614170702.mp3"
+  },
   "16616273519": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -8471,6 +9065,12 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16623089439.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16623089439.mp3"
+  },
+  "16672906032": {
+    "brand": "ASBL",
+    "city": "Baltimore",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16672906032.mp3"
   },
   "16672906059": {
     "brand": "LPJ",
@@ -8501,11 +9101,23 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16693153573.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16693153573.mp3"
   },
+  "16693267715": {
+    "brand": "ASBL",
+    "city": "San Jose",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16693267715.mp3"
+  },
   "16693268181": {
     "brand": "LPJ",
     "city": "San Jose",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16693268181.mp3"
+  },
+  "16693274458": {
+    "brand": "ASBL",
+    "city": "Gilroy",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16693274458.mp3"
   },
   "16783703227": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -8590,6 +9202,12 @@
     "city": "Charleston",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16812496729.mp3"
+  },
+  "16823851211": {
+    "brand": "ASBL",
+    "city": "Fort Worth",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16823851211.mp3"
   },
   "16823851258": {
     "brand": "LPJ",
@@ -8695,11 +9313,29 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/16893190341.mp3"
   },
+  "16896896955": {
+    "brand": "ASBL",
+    "city": "Kissimmee",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16896896955.mp3"
+  },
+  "16896980225": {
+    "brand": "ASBL",
+    "city": "Orlando",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16896980225.mp3"
+  },
   "16896980275": {
     "brand": "LPJ",
     "city": "Orlando",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16896980275.mp3"
+  },
+  "16896992695": {
+    "brand": "ASBL",
+    "city": "Rockledge",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16896992695.mp3"
   },
   "16896992720": {
     "brand": "LPJ",
@@ -9049,6 +9685,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17062504499.mp3"
   },
+  "17065052144": {
+    "brand": "ASBL",
+    "city": "Columbus",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17065052144.mp3"
+  },
   "17066863399": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
     "brand": "SMHF",
@@ -9066,6 +9708,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17067022099.mp3"
+  },
+  "17067516565": {
+    "brand": "ASBL",
+    "city": "Augusta",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17067516565.mp3"
   },
   "17072603595": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -9096,6 +9744,12 @@
     "city": "St. Helena",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17072860061.mp3"
+  },
+  "17073048020": {
+    "brand": "ASBL",
+    "city": "Santa Rosa",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17073048020.mp3"
   },
   "17082908564": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
@@ -9278,6 +9932,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17164153276.mp3"
   },
+  "17164260161": {
+    "brand": "ASBL",
+    "city": "Buffalo",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17164260161.mp3"
+  },
   "17164773199": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
     "brand": "SMHF",
@@ -9351,6 +10011,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17193538799.mp3"
+  },
+  "17193552707": {
+    "brand": "ASBL",
+    "city": "Colorado Springs",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17193552707.mp3"
   },
   "17194315591": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -9542,12 +10208,54 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17206403919.mp3"
   },
+  "17208176641": {
+    "brand": "ASBL",
+    "city": "Lakewood",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17208176641.mp3"
+  },
+  "17208176642": {
+    "brand": "ASBL",
+    "city": "Aurora",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17208176642.mp3"
+  },
+  "17208176653": {
+    "brand": "ASBL",
+    "city": "Denver",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17208176653.mp3"
+  },
+  "17208187066": {
+    "brand": "ASBL",
+    "city": "Boulder",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17208187066.mp3"
+  },
+  "17208187083": {
+    "brand": "ASBL",
+    "city": "Longmont",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17208187083.mp3"
+  },
   "17252524673": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Las Vegas",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17252524673.mp3"
+  },
+  "17254652342": {
+    "brand": "ASBL",
+    "city": "Henderson",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17254652342.mp3"
+  },
+  "17254652347": {
+    "brand": "ASBL",
+    "city": "Las Vegas",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17254652347.mp3"
   },
   "17254652399": {
     "brand": "LPJ",
@@ -9956,6 +10664,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17272653649.mp3"
   },
+  "17273171765": {
+    "brand": "ASBL",
+    "city": "Clearwater",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273171765.mp3"
+  },
   "17273491148": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
@@ -9983,11 +10697,47 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273508063.mp3"
   },
+  "17273508065": {
+    "brand": "ASBL",
+    "city": "Dunedin",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273508065.mp3"
+  },
+  "17273508067": {
+    "brand": "ASBL",
+    "city": "Largo",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273508067.mp3"
+  },
+  "17273508072": {
+    "brand": "ASBL",
+    "city": "Pinellas Park",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273508072.mp3"
+  },
+  "17273508073": {
+    "brand": "ASBL",
+    "city": "Safety Harbor",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273508073.mp3"
+  },
+  "17273508081": {
+    "brand": "ASBL",
+    "city": "St. Petersburg",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273508081.mp3"
+  },
   "17273508265": {
     "brand": "LPJ",
     "city": "Largo",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273508265.mp3"
+  },
+  "17273543018": {
+    "brand": "ASBL",
+    "city": "New Port Richey",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17273543018.mp3"
   },
   "17273543056": {
     "brand": "LPJ",
@@ -10252,17 +11002,47 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17282203378.mp3"
   },
+  "17282295749": {
+    "brand": "ASBL",
+    "city": "Boca Raton",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17282295749.mp3"
+  },
   "17282295839": {
     "brand": "LPJ",
     "city": "Boca Raton",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17282295839.mp3"
   },
+  "17282317580": {
+    "brand": "ASBL",
+    "city": "Wellington",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17282317580.mp3"
+  },
+  "17282317607": {
+    "brand": "ASBL",
+    "city": "West Palm Beach",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17282317607.mp3"
+  },
   "17282317660": {
     "brand": "LPJ",
     "city": "West Palm Beach",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17282317660.mp3"
+  },
+  "17282332181": {
+    "brand": "ASBL",
+    "city": "Boynton Beach",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17282332181.mp3"
+  },
+  "17282390041": {
+    "brand": "ASBL",
+    "city": "Jupiter",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17282390041.mp3"
   },
   "17323277650": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -10319,12 +11099,30 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17347894699.mp3"
   },
+  "17348845774": {
+    "brand": "ASBL",
+    "city": "Detroit",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17348845774.mp3"
+  },
   "17372276832": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Austin",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17372276832.mp3"
+  },
+  "17379735676": {
+    "brand": "ASBL",
+    "city": "Austin",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17379735676.mp3"
+  },
+  "17379737067": {
+    "brand": "ASBL",
+    "city": "Georgetown",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17379737067.mp3"
   },
   "17379737171": {
     "brand": "LPJ",
@@ -10340,11 +11138,29 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17404448827.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17404448827.mp3"
   },
+  "17432587129": {
+    "brand": "ASBL",
+    "city": "Greensboro",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17432587129.mp3"
+  },
+  "17432795812": {
+    "brand": "ASBL",
+    "city": "Winston-Salem",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17432795812.mp3"
+  },
   "17472830218": {
     "brand": "LPJ",
     "city": "Burbank",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17472830218.mp3"
+  },
+  "17473422044": {
+    "brand": "ASBL",
+    "city": "Glendale",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17473422044.mp3"
   },
   "17548006368": {
     "brand": "LPJ",
@@ -10369,6 +11185,30 @@
     "city": "Miami Beach",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17548006494.mp3"
+  },
+  "17548125023": {
+    "brand": "ASBL",
+    "city": "Coral Springs",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17548125023.mp3"
+  },
+  "17548167155": {
+    "brand": "ASBL",
+    "city": "Hialeah",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17548167155.mp3"
+  },
+  "17548167162": {
+    "brand": "ASBL",
+    "city": "Miami",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17548167162.mp3"
+  },
+  "17549462007": {
+    "brand": "ASBL",
+    "city": "Fort Lauderdale",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17549462007.mp3"
   },
   "17549462036": {
     "brand": "LPJ",
@@ -10483,6 +11323,24 @@
     "city": "Victorville",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17602803320.mp3"
+  },
+  "17602817879": {
+    "brand": "ASBL",
+    "city": "Indio",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17602817879.mp3"
+  },
+  "17602817883": {
+    "brand": "ASBL",
+    "city": "Victorville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17602817883.mp3"
+  },
+  "17602817898": {
+    "brand": "ASBL",
+    "city": "Vista",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17602817898.mp3"
   },
   "17602844767": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
@@ -10609,6 +11467,24 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17704701725.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17704701725.mp3"
   },
+  "17707068392": {
+    "brand": "ASBL",
+    "city": "Lawrenceville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17707068392.mp3"
+  },
+  "17707068394": {
+    "brand": "ASBL",
+    "city": "Milton",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17707068394.mp3"
+  },
+  "17707068396": {
+    "brand": "ASBL",
+    "city": "Peachtree City",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17707068396.mp3"
+  },
   "17712169952": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -10640,6 +11516,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17712188092.mp3"
   },
+  "17712401532": {
+    "brand": "ASBL",
+    "city": "Washington",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17712401532.mp3"
+  },
   "17712404208": {
     "brand": "LPJ",
     "city": "Washington DC",
@@ -10661,6 +11543,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17722734790.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17722734790.mp3"
   },
+  "17727328872": {
+    "brand": "ASBL",
+    "city": "Port St. Lucie",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17727328872.mp3"
+  },
   "17727584075": {
     "brand": "LPJ",
     "city": "Vero Beach",
@@ -10672,6 +11560,12 @@
     "city": "Stuart",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17727760684.mp3"
+  },
+  "17728743062": {
+    "brand": "ASBL",
+    "city": "Palm Bay",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17728743062.mp3"
   },
   "17732779341": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -10702,6 +11596,12 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17734105946.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17734105946.mp3"
+  },
+  "17743510109": {
+    "brand": "ASBL",
+    "city": "Worcester",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17743510109.mp3"
   },
   "17743828080": {
     "brand": "LPJ",
@@ -11284,6 +12184,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18044883349.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18044883349.mp3"
   },
+  "18045876581": {
+    "brand": "ASBL",
+    "city": "Richmond",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18045876581.mp3"
+  },
   "18053091893": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -11308,11 +12214,29 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18053091965.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18053091965.mp3"
   },
+  "18054186270": {
+    "brand": "ASBL",
+    "city": "Thousand Oaks",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18054186270.mp3"
+  },
   "18054186296": {
     "brand": "LPJ",
     "city": "Westlake Village",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18054186296.mp3"
+  },
+  "18054360022": {
+    "brand": "ASBL",
+    "city": "Oxnard",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18054360022.mp3"
+  },
+  "18055540034": {
+    "brand": "ASBL",
+    "city": "Orcutt",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18055540034.mp3"
   },
   "18055626039": {
     "brand": "LPJ",
@@ -11356,6 +12280,18 @@
     "city": "Lubbock",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18064509033.mp3"
+  },
+  "18066425804": {
+    "brand": "ASBL",
+    "city": "Lubbock",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18066425804.mp3"
+  },
+  "18082792112": {
+    "brand": "ASBL",
+    "city": "Honolulu",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18082792112.mp3"
   },
   "18083097856": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -11512,6 +12448,18 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18154178465.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18154178465.mp3"
   },
+  "18155675622": {
+    "brand": "ASBL",
+    "city": "New Lenox",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18155675622.mp3"
+  },
+  "18155675623": {
+    "brand": "ASBL",
+    "city": "Rockford",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18155675623.mp3"
+  },
   "18162030899": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=kansas-city",
     "brand": "SMHF",
@@ -11570,6 +12518,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18163276399.mp3"
+  },
+  "18164620155": {
+    "brand": "ASBL",
+    "city": "Kansas City",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18164620155.mp3"
   },
   "18164620193": {
     "brand": "LPJ",
@@ -11719,6 +12673,18 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18285473299.mp3"
   },
+  "18285794177": {
+    "brand": "ASBL",
+    "city": "Asheville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18285794177.mp3"
+  },
+  "18286242175": {
+    "brand": "ASBL",
+    "city": "Hickory",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18286242175.mp3"
+  },
   "18302409642": {
     "brand": "LPJ",
     "city": "San Antonio",
@@ -11739,6 +12705,30 @@
     "city": "Del Rio",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18302508688.mp3"
+  },
+  "18303107969": {
+    "brand": "ASBL",
+    "city": "New Braunfels",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18303107969.mp3"
+  },
+  "18303683010": {
+    "brand": "ASBL",
+    "city": "San Antonio",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18303683010.mp3"
+  },
+  "18312530318": {
+    "brand": "ASBL",
+    "city": "Salinas",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18312530318.mp3"
+  },
+  "18312594012": {
+    "brand": "ASBL",
+    "city": "Seaside",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18312594012.mp3"
   },
   "18312594045": {
     "brand": "LPJ",
@@ -11769,6 +12759,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18312658100.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18312658100.mp3"
   },
+  "18312741005": {
+    "brand": "ASBL",
+    "city": "Watsonville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18312741005.mp3"
+  },
   "18336597355": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=SS",
     "brand": "SS",
@@ -11782,6 +12778,12 @@
     "city": "Albany",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18382832432.mp3"
+  },
+  "18392388668": {
+    "brand": "ASBL",
+    "city": "Columbia",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18392388668.mp3"
   },
   "18433092477": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -11867,6 +12869,30 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18502544655.mp3"
   },
+  "18507614222": {
+    "brand": "ASBL",
+    "city": "Pensacola",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18507614222.mp3"
+  },
+  "18507614296": {
+    "brand": "ASBL",
+    "city": "Tallahassee",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18507614296.mp3"
+  },
+  "18542334527": {
+    "brand": "ASBL",
+    "city": "Myrtle Beach",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18542334527.mp3"
+  },
+  "18542460446": {
+    "brand": "ASBL",
+    "city": "Charleston",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18542460446.mp3"
+  },
   "18542460491": {
     "brand": "LPJ",
     "city": "Charleston",
@@ -11912,6 +12938,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18573654780.mp3"
   },
+  "18573984349": {
+    "brand": "ASBL",
+    "city": "Boston",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18573984349.mp3"
+  },
   "18573984394": {
     "brand": "LPJ",
     "city": "Boston",
@@ -11944,6 +12976,12 @@
     "forward": "+18333508240",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18592953752.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18592953752.mp3"
+  },
+  "18593000191": {
+    "brand": "ASBL",
+    "city": "Lexington",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18593000191.mp3"
   },
   "18595359499": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
@@ -11985,6 +13023,18 @@
     "city": "Hartford",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18607438371.mp3"
+  },
+  "18609347617": {
+    "brand": "ASBL",
+    "city": "Norwich",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18609347617.mp3"
+  },
+  "18609553025": {
+    "brand": "ASBL",
+    "city": "Hartford",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18609553025.mp3"
   },
   "18609553051": {
     "brand": "LPJ",
@@ -12107,12 +13157,24 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18645885985.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18645885985.mp3"
   },
+  "18647073852": {
+    "brand": "ASBL",
+    "city": "Spartanburg",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18647073852.mp3"
+  },
   "18647784873": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
     "brand": "SMSSC",
     "city": "Greenville",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18647784873.mp3"
+  },
+  "18648001283": {
+    "brand": "ASBL",
+    "city": "Greenville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18648001283.mp3"
   },
   "18652844395": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -12137,6 +13199,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/18652848739.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18652848739.mp3"
   },
+  "18653320370": {
+    "brand": "ASBL",
+    "city": "Knoxville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18653320370.mp3"
+  },
   "18655035399": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
     "brand": "SMHF",
@@ -12154,6 +13222,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18705328799.mp3"
+  },
+  "18722796009": {
+    "brand": "ASBL",
+    "city": "Chicago",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18722796009.mp3"
   },
   "18722796034": {
     "brand": "LPJ",
@@ -12204,6 +13278,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
   },
+  "18777130470": {
+    "brand": "ASBL",
+    "city": "Anchorage",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18777130470.mp3"
+  },
   "18777159340": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
     "brand": "DHB",
@@ -12231,6 +13311,12 @@
     "city": "(main line)",
     "forward": "+18333508826",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_fhb_main.mp3"
+  },
+  "18778651530": {
+    "brand": "ASBL",
+    "city": "(main line)",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18778651530.mp3"
   },
   "18888914270": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=GX",
@@ -12260,6 +13346,12 @@
     "city": "Memphis",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19016402135.mp3"
+  },
+  "19016651141": {
+    "brand": "ASBL",
+    "city": "Memphis",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19016651141.mp3"
   },
   "19016651167": {
     "brand": "LPJ",
@@ -12560,11 +13652,29 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19146165450.mp3"
   },
+  "19146192772": {
+    "brand": "ASBL",
+    "city": "New York",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19146192772.mp3"
+  },
+  "19146192784": {
+    "brand": "ASBL",
+    "city": "Staten Island",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19146192784.mp3"
+  },
   "19146478235": {
     "brand": "LPJ",
     "city": "White Plains",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19146478235.mp3"
+  },
+  "19146776543": {
+    "brand": "ASBL",
+    "city": "Bronx",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19146776543.mp3"
   },
   "19152399718": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -12587,6 +13697,12 @@
     "city": "El Paso",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19152898253.mp3"
+  },
+  "19153360967": {
+    "brand": "ASBL",
+    "city": "El Paso",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19153360967.mp3"
   },
   "19162448036": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -12672,6 +13788,12 @@
     "city": "Tulsa",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19183590894.mp3"
+  },
+  "19184780173": {
+    "brand": "ASBL",
+    "city": "Tulsa",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19184780173.mp3"
   },
   "19188488399": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
@@ -12798,6 +13920,12 @@
     "city": "Walnut Creek",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19254408007.mp3"
+  },
+  "19254713005": {
+    "brand": "ASBL",
+    "city": "Concord",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19254713005.mp3"
   },
   "19282687997": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -13033,6 +14161,30 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19284907365.mp3"
   },
+  "19284911097": {
+    "brand": "ASBL",
+    "city": "Chandler",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19284911097.mp3"
+  },
+  "19284920030": {
+    "brand": "ASBL",
+    "city": "Mesa",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19284920030.mp3"
+  },
+  "19285432973": {
+    "brand": "ASBL",
+    "city": "Phoenix",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19285432973.mp3"
+  },
+  "19289461117": {
+    "brand": "ASBL",
+    "city": "Tucson",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19289461117.mp3"
+  },
   "19313409899": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=nashville",
     "brand": "SMHF",
@@ -13041,6 +14193,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19313409899.mp3"
+  },
+  "19313423004": {
+    "brand": "ASBL",
+    "city": "Clarksville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19313423004.mp3"
   },
   "19313449770": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=HHB",
@@ -13098,6 +14256,12 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19362444880.mp3"
   },
+  "19363335226": {
+    "brand": "ASBL",
+    "city": "Conroe",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19363335226.mp3"
+  },
   "19373659759": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=ohio",
     "brand": "SMHF",
@@ -13137,6 +14301,12 @@
     "city": "Dayton",
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19375577736.mp3"
+  },
+  "19376499422": {
+    "brand": "ASBL",
+    "city": "Dayton",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19376499422.mp3"
   },
   "19402756016": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
@@ -13308,17 +14478,47 @@
     "forward": "+16562595418",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19413945893.mp3"
   },
+  "19414915727": {
+    "brand": "ASBL",
+    "city": "Lakewood Ranch",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19414915727.mp3"
+  },
+  "19414915767": {
+    "brand": "ASBL",
+    "city": "Sarasota",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19414915767.mp3"
+  },
   "19414915795": {
     "brand": "LPJ",
     "city": "Sarasota",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19414915795.mp3"
   },
+  "19416287057": {
+    "brand": "ASBL",
+    "city": "Port Charlotte",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19416287057.mp3"
+  },
   "19432218024": {
     "brand": "LPJ",
     "city": "Alpharetta",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19432218024.mp3"
+  },
+  "19453682813": {
+    "brand": "ASBL",
+    "city": "Irving",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19453682813.mp3"
+  },
+  "19454035546": {
+    "brand": "ASBL",
+    "city": "Dallas",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19454035546.mp3"
   },
   "19454035571": {
     "brand": "LPJ",
@@ -13331,6 +14531,18 @@
     "city": "Plano",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19454284321.mp3"
+  },
+  "19457327415": {
+    "brand": "ASBL",
+    "city": "Frisco",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19457327415.mp3"
+  },
+  "19482072112": {
+    "brand": "ASBL",
+    "city": "Virginia Beach",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19482072112.mp3"
   },
   "19482072137": {
     "brand": "LPJ",
@@ -13378,6 +14590,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19497856249.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19497856249.mp3"
   },
+  "19499201126": {
+    "brand": "ASBL",
+    "city": "Irvine",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19499201126.mp3"
+  },
   "19499201173": {
     "brand": "LPJ",
     "city": "Newport Beach",
@@ -13423,6 +14641,18 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_guys_press1.mp3"
+  },
+  "19514660018": {
+    "brand": "ASBL",
+    "city": "Temecula",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19514660018.mp3"
+  },
+  "19514701257": {
+    "brand": "ASBL",
+    "city": "Riverside",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19514701257.mp3"
   },
   "19517244799": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
@@ -13533,6 +14763,18 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19566543786.mp3"
   },
+  "19567137394": {
+    "brand": "ASBL",
+    "city": "McAllen",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19567137394.mp3"
+  },
+  "19569530028": {
+    "brand": "ASBL",
+    "city": "Brownsville",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19569530028.mp3"
+  },
   "19702517799": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
     "brand": "SMHF",
@@ -13572,6 +14814,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19703433002.mp3"
   },
+  "19704136017": {
+    "brand": "ASBL",
+    "city": "Fort Collins",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19704136017.mp3"
+  },
   "19704295304": {
     "brand": "LPJ",
     "city": "Aspen",
@@ -13584,6 +14832,12 @@
     "city": "Portland",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19713699995.mp3"
+  },
+  "19714429077": {
+    "brand": "ASBL",
+    "city": "Portland",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19714429077.mp3"
   },
   "19714429102": {
     "brand": "LPJ",
@@ -13615,6 +14869,12 @@
     "city": "Newark",
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19733465672.mp3"
+  },
+  "19738888292": {
+    "brand": "ASBL",
+    "city": "Newark",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19738888292.mp3"
   },
   "19783518807": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=CHB",
@@ -13699,6 +14959,12 @@
     "forward": "+18886651257",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/19804486919.mp3"
   },
+  "19804670434": {
+    "brand": "ASBL",
+    "city": "Charlotte",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19804670434.mp3"
+  },
   "19804670475": {
     "brand": "LPJ",
     "city": "Charlotte",
@@ -13776,6 +15042,12 @@
     "city": "Raleigh",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19847427497.mp3"
+  },
+  "19847427498": {
+    "brand": "ASBL",
+    "city": "Raleigh",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19847427498.mp3"
   },
   "19892814499": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",

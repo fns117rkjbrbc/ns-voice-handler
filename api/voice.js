@@ -53,6 +53,8 @@ const NO_GREETING_BRANDS = new Set(["DHB", "CHB", "FHB", "HHB", "SS"]);
 // brand here and in voice-digit.js.
 const NOT_CONNECTED_BRANDS = {
   LPJ: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_not_connected.mp3",
+  // ASBL = American Small Business Loans (212 numbers, no destination yet).
+  ASBL: "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_not_connected.mp3",
 };
 
 const DIGIT_HANDLER_URL = "https://ns-voice-handler.vercel.app/api/voice-digit";
