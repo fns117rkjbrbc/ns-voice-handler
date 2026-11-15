@@ -3804,6 +3804,12 @@
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/13252410045.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13252410045.mp3"
   },
+  "13262202019": {
+    "brand": "LPJ",
+    "city": "Dayton",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13262202019.mp3"
+  },
   "13272101797": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=DHB",
     "brand": "DHB",
@@ -7230,6 +7236,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15626840936.mp3"
   },
+  "15626844901": {
+    "brand": "LPJ",
+    "city": "Long Beach",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_15626844901.mp3"
+  },
   "15632284641": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/cwygrp-calls?brand=FHB",
     "brand": "FHB",
@@ -8899,6 +8911,12 @@
     "city": "Anaheim",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16578423528.mp3"
+  },
+  "16578423568": {
+    "brand": "LPJ",
+    "city": "Anaheim",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_16578423568.mp3"
   },
   "16592334939": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -11179,6 +11197,12 @@
     "city": "Greensboro",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17432587129.mp3"
+  },
+  "17432587155": {
+    "brand": "LPJ",
+    "city": "Greensboro",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17432587155.mp3"
   },
   "17432795812": {
     "brand": "ASBL",
