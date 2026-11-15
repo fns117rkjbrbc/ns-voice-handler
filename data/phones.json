@@ -3092,6 +3092,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13026001028.mp3"
   },
+  "13026001745": {
+    "brand": "LPJ",
+    "city": "Wilmington",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_13026001745.mp3"
+  },
   "13033091719": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=denver",
     "brand": "SMHF",
@@ -5321,6 +5327,12 @@
     "mp3_url": "",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_smhf_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14344483999.mp3"
+  },
+  "14355652472": {
+    "brand": "LPJ",
+    "city": "Park City",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_14355652472.mp3"
   },
   "14356107999": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
@@ -11108,6 +11120,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17347194883.mp3"
   },
+  "17347241372": {
+    "brand": "LPJ",
+    "city": "Troy",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17347241372.mp3"
+  },
   "17347894699": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=guys",
     "brand": "SMHF",
@@ -11633,6 +11651,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17743828080.mp3"
   },
+  "17744703271": {
+    "brand": "LPJ",
+    "city": "Hyannis",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17744703271.mp3"
+  },
   "17752279447": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
     "brand": "ALB",
@@ -11663,6 +11687,12 @@
     "forward": "+18334420558",
     "mp3_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/17752279450.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17752279450.mp3"
+  },
+  "17752493538": {
+    "brand": "LPJ",
+    "city": "Lake Tahoe",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17752493538.mp3"
   },
   "17754917149": {
     "brand": "LPJ",
@@ -12316,6 +12346,12 @@
     "city": "Honolulu",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18082792112.mp3"
+  },
+  "18082792177": {
+    "brand": "LPJ",
+    "city": "Honolulu",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18082792177.mp3"
   },
   "18083097856": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
@@ -13727,6 +13763,12 @@
     "city": "El Paso",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19153360967.mp3"
+  },
+  "19153361006": {
+    "brand": "LPJ",
+    "city": "El Paso",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19153361006.mp3"
   },
   "19162448036": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/alb-calls",
