@@ -11653,7 +11653,7 @@
   },
   "17744703271": {
     "brand": "LPJ",
-    "city": "Hyannis",
+    "city": "Cape Cod",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_17744703271.mp3"
   },
@@ -12844,6 +12844,18 @@
     "city": "Columbia",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18392388668.mp3"
+  },
+  "18402683514": {
+    "brand": "LPJ",
+    "city": "San Bernardino",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18402683514.mp3"
+  },
+  "18404009148": {
+    "brand": "LPJ",
+    "city": "Ontario",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18404009148.mp3"
   },
   "18433092477": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smssc-calls?brand=SMSSC",
@@ -14719,6 +14731,12 @@
     "city": "Riverside",
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19514701257.mp3"
+  },
+  "19514702835": {
+    "brand": "LPJ",
+    "city": "Riverside",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_19514702835.mp3"
   },
   "19517244799": {
     "action": "https://nearstrategy.app.n8n.cloud/webhook/smhf-calls?market=california",
