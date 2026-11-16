@@ -12875,6 +12875,12 @@
     "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_lpj_press1_retry.mp3",
     "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18402683514.mp3"
   },
+  "18402688146": {
+    "brand": "ASBL",
+    "city": "San Bernardino",
+    "press1_retry_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/_asbl_press1_retry.mp3",
+    "press1_url": "https://pub-ea83f771b0e5402ab21e46c842f82083.r2.dev/greetings/pergbp/p1_18402688146.mp3"
+  },
   "18404009148": {
     "brand": "LPJ",
     "city": "Ontario",
